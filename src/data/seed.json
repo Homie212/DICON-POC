@@ -1,0 +1,3579 @@
+{
+  "meta": {
+    "generated": "2026-09-12T13:18:03.015Z",
+    "note": "Entirely fictional demonstration data. No real people, drones, or organizations.",
+    "integration": "Operational subset received via MITDrone → DICON identity contract. Does not include full commercial/customer data."
+  },
+  "center": {
+    "lat": 39.283,
+    "lng": -76.616
+  },
+  "operators": [
+    {
+      "id": "OPR-00001",
+      "name": "Eulalia Terry",
+      "organization": null,
+      "verification": "Unverified"
+    },
+    {
+      "id": "OPR-00002",
+      "name": "Shanny Paucek MD",
+      "organization": "Hoppe, Leuschke and Kutch",
+      "verification": "Unverified"
+    },
+    {
+      "id": "OPR-00003",
+      "name": "Reggie Adams I",
+      "organization": null,
+      "verification": "Unverified"
+    },
+    {
+      "id": "OPR-00004",
+      "name": "Art Stark",
+      "organization": "Considine Group",
+      "verification": "Unverified"
+    },
+    {
+      "id": "OPR-00005",
+      "name": "Mr. Teagan Kuhic",
+      "organization": "Wehner Group",
+      "verification": "Verified"
+    },
+    {
+      "id": "OPR-00006",
+      "name": "Carroll Dicki",
+      "organization": null,
+      "verification": "Unverified"
+    },
+    {
+      "id": "OPR-00007",
+      "name": "Leonora Mante-Cummerata",
+      "organization": "Price, Grady and Swift",
+      "verification": "Pending"
+    },
+    {
+      "id": "OPR-00008",
+      "name": "Reta Thiel-Stokes",
+      "organization": "Dickinson, Koepp-Lang and Bode-O'Kon",
+      "verification": "Verified"
+    },
+    {
+      "id": "OPR-00009",
+      "name": "Carmen Corwin",
+      "organization": "Abernathy and Sons",
+      "verification": "Unverified"
+    },
+    {
+      "id": "OPR-00010",
+      "name": "Casimer Heaney",
+      "organization": "Gorczany and Sons",
+      "verification": "Verified"
+    },
+    {
+      "id": "OPR-00011",
+      "name": "Harvey Wintheiser",
+      "organization": "Doyle - Jast",
+      "verification": "Unverified"
+    },
+    {
+      "id": "OPR-00012",
+      "name": "Jamil Abbott",
+      "organization": null,
+      "verification": "Verified"
+    },
+    {
+      "id": "OPR-00013",
+      "name": "Francesco Mayer",
+      "organization": "Hegmann, Gleichner and Zulauf",
+      "verification": "Pending"
+    },
+    {
+      "id": "OPR-00014",
+      "name": "Niko Crooks",
+      "organization": null,
+      "verification": "Pending"
+    },
+    {
+      "id": "OPR-00015",
+      "name": "Amir Hauck",
+      "organization": "Friesen, Lind and Collins",
+      "verification": "Verified"
+    },
+    {
+      "id": "OPR-00016",
+      "name": "Hilario O'Conner",
+      "organization": null,
+      "verification": "Pending"
+    },
+    {
+      "id": "OPR-00017",
+      "name": "Kelly Rogahn",
+      "organization": "Lehner, Batz and Wunsch",
+      "verification": "Verified"
+    },
+    {
+      "id": "OPR-00018",
+      "name": "Gladyce Herman",
+      "organization": null,
+      "verification": "Verified"
+    },
+    {
+      "id": "OPR-00019",
+      "name": "Mr. Mose DuBuque",
+      "organization": null,
+      "verification": "Unverified"
+    },
+    {
+      "id": "OPR-00020",
+      "name": "Eli McCullough",
+      "organization": "Reichert and Sons",
+      "verification": "Pending"
+    },
+    {
+      "id": "OPR-00021",
+      "name": "Furman Gerhold",
+      "organization": "Zboncak - Bauch",
+      "verification": "Unverified"
+    },
+    {
+      "id": "OPR-00022",
+      "name": "Mathias Bednar",
+      "organization": "Schneider LLC",
+      "verification": "Pending"
+    },
+    {
+      "id": "OPR-00023",
+      "name": "Justice Shields",
+      "organization": null,
+      "verification": "Pending"
+    },
+    {
+      "id": "OPR-00024",
+      "name": "Cristobal Will",
+      "organization": "Dietrich and Sons",
+      "verification": "Unverified"
+    },
+    {
+      "id": "OPR-00025",
+      "name": "Dr. David Ernser I",
+      "organization": null,
+      "verification": "Pending"
+    },
+    {
+      "id": "OPR-00026",
+      "name": "Abe Kunze V",
+      "organization": "Hahn - Altenwerth",
+      "verification": "Unverified"
+    },
+    {
+      "id": "OPR-00027",
+      "name": "Axel Sanford DDS",
+      "organization": null,
+      "verification": "Pending"
+    },
+    {
+      "id": "OPR-00028",
+      "name": "Cali Miller",
+      "organization": null,
+      "verification": "Unverified"
+    },
+    {
+      "id": "OPR-00029",
+      "name": "Ford Kuphal-Cruickshank",
+      "organization": null,
+      "verification": "Pending"
+    },
+    {
+      "id": "OPR-00030",
+      "name": "Sydnee Hills-Okuneva",
+      "organization": null,
+      "verification": "Unverified"
+    },
+    {
+      "id": "OPR-00031",
+      "name": "Moses Grady IV",
+      "organization": null,
+      "verification": "Verified"
+    },
+    {
+      "id": "OPR-00032",
+      "name": "Sheridan Bins",
+      "organization": "Leannon and Sons",
+      "verification": "Pending"
+    },
+    {
+      "id": "OPR-00033",
+      "name": "Judge Lubowitz",
+      "organization": "Dickens - Towne",
+      "verification": "Unverified"
+    },
+    {
+      "id": "OPR-00034",
+      "name": "Kenya Price",
+      "organization": null,
+      "verification": "Pending"
+    },
+    {
+      "id": "OPR-00035",
+      "name": "Bo Lubowitz",
+      "organization": "Steuber - Auer",
+      "verification": "Verified"
+    },
+    {
+      "id": "OPR-00036",
+      "name": "Halie Hilll I",
+      "organization": null,
+      "verification": "Verified"
+    },
+    {
+      "id": "OPR-00037",
+      "name": "Dr. Ronald Ritchie",
+      "organization": null,
+      "verification": "Pending"
+    },
+    {
+      "id": "OPR-00038",
+      "name": "Sheila Braun",
+      "organization": "Fahey, Homenick and Harris",
+      "verification": "Pending"
+    },
+    {
+      "id": "OPR-00039",
+      "name": "Michel Crona PhD",
+      "organization": null,
+      "verification": "Pending"
+    },
+    {
+      "id": "OPR-00040",
+      "name": "Shanelle Maggio",
+      "organization": "Koepp, Dibbert and Senger",
+      "verification": "Verified"
+    },
+    {
+      "id": "OPR-00041",
+      "name": "Oma Crooks",
+      "organization": null,
+      "verification": "Verified"
+    },
+    {
+      "id": "OPR-00042",
+      "name": "Domenic O'Hara",
+      "organization": null,
+      "verification": "Unverified"
+    },
+    {
+      "id": "OPR-00043",
+      "name": "Mr. Bobby Hegmann",
+      "organization": null,
+      "verification": "Pending"
+    },
+    {
+      "id": "OPR-00044",
+      "name": "Walton Rau",
+      "organization": "Aufderhar - Schuster",
+      "verification": "Pending"
+    },
+    {
+      "id": "OPR-00045",
+      "name": "Tyshawn Bruen",
+      "organization": null,
+      "verification": "Unverified"
+    },
+    {
+      "id": "OPR-00046",
+      "name": "Sammy Jones",
+      "organization": null,
+      "verification": "Verified"
+    },
+    {
+      "id": "OPR-00047",
+      "name": "Hyman Gottlieb-Mueller",
+      "organization": "Brakus - Rohan",
+      "verification": "Verified"
+    },
+    {
+      "id": "OPR-00048",
+      "name": "Ethelyn Gottlieb",
+      "organization": "Roberts and Sons",
+      "verification": "Unverified"
+    },
+    {
+      "id": "OPR-00049",
+      "name": "Johann Hilll",
+      "organization": null,
+      "verification": "Unverified"
+    },
+    {
+      "id": "OPR-00050",
+      "name": "Dr. Jayden Langworth",
+      "organization": "Quigley - Thiel",
+      "verification": "Pending"
+    },
+    {
+      "id": "OPR-00051",
+      "name": "Isaias Little",
+      "organization": null,
+      "verification": "Unverified"
+    },
+    {
+      "id": "OPR-00052",
+      "name": "Miss Megane Konopelski",
+      "organization": null,
+      "verification": "Pending"
+    },
+    {
+      "id": "OPR-00053",
+      "name": "Cecelia Effertz IV",
+      "organization": null,
+      "verification": "Pending"
+    },
+    {
+      "id": "OPR-00054",
+      "name": "Arturo Bosco",
+      "organization": null,
+      "verification": "Unverified"
+    },
+    {
+      "id": "OPR-00055",
+      "name": "Rory Dare",
+      "organization": "Mitchell - Weimann",
+      "verification": "Unverified"
+    },
+    {
+      "id": "OPR-00056",
+      "name": "Syble Feil",
+      "organization": "Quigley, Bednar and Glover",
+      "verification": "Unverified"
+    },
+    {
+      "id": "OPR-00057",
+      "name": "Dr. Kurtis Kutch IV",
+      "organization": null,
+      "verification": "Verified"
+    },
+    {
+      "id": "OPR-00058",
+      "name": "Danika Walker",
+      "organization": "Robel - Reynolds",
+      "verification": "Verified"
+    },
+    {
+      "id": "OPR-00059",
+      "name": "Sonya Harber",
+      "organization": "Kertzmann - Graham",
+      "verification": "Unverified"
+    },
+    {
+      "id": "OPR-00060",
+      "name": "Ms. Nikki Oberbrunner",
+      "organization": "Dibbert - Homenick",
+      "verification": "Verified"
+    },
+    {
+      "id": "OPR-00061",
+      "name": "Joe Reinger Sr.",
+      "organization": null,
+      "verification": "Unverified"
+    },
+    {
+      "id": "OPR-00062",
+      "name": "Cooper Ullrich",
+      "organization": "Mante LLC",
+      "verification": "Pending"
+    },
+    {
+      "id": "OPR-00063",
+      "name": "Shawna Miller",
+      "organization": null,
+      "verification": "Pending"
+    },
+    {
+      "id": "OPR-00064",
+      "name": "Caesar Swaniawski",
+      "organization": "Kemmer Group",
+      "verification": "Unverified"
+    },
+    {
+      "id": "OPR-00065",
+      "name": "Diamond Towne",
+      "organization": "Heller LLC",
+      "verification": "Verified"
+    },
+    {
+      "id": "OPR-00066",
+      "name": "Jabari Hilll-Dach",
+      "organization": null,
+      "verification": "Unverified"
+    },
+    {
+      "id": "OPR-00067",
+      "name": "Abdiel Douglas",
+      "organization": null,
+      "verification": "Verified"
+    },
+    {
+      "id": "OPR-00068",
+      "name": "Dovie Mayer",
+      "organization": null,
+      "verification": "Pending"
+    },
+    {
+      "id": "OPR-00069",
+      "name": "Kiley Runolfsson",
+      "organization": null,
+      "verification": "Unverified"
+    },
+    {
+      "id": "OPR-00070",
+      "name": "Genevieve Schmeler",
+      "organization": "Wintheiser, Hermiston and Barrows",
+      "verification": "Pending"
+    },
+    {
+      "id": "OPR-00071",
+      "name": "Janice Tromp",
+      "organization": null,
+      "verification": "Pending"
+    },
+    {
+      "id": "OPR-00072",
+      "name": "Mathilde Hahn",
+      "organization": "Jast Group",
+      "verification": "Unverified"
+    },
+    {
+      "id": "OPR-00073",
+      "name": "Angela Mitchell DDS",
+      "organization": null,
+      "verification": "Verified"
+    },
+    {
+      "id": "OPR-00074",
+      "name": "Carmela Simonis",
+      "organization": "McCullough - Crona",
+      "verification": "Verified"
+    },
+    {
+      "id": "OPR-00075",
+      "name": "Ms. Beatrice Collins",
+      "organization": null,
+      "verification": "Pending"
+    },
+    {
+      "id": "OPR-00076",
+      "name": "Idell Schimmel",
+      "organization": "Rowe LLC",
+      "verification": "Unverified"
+    }
+  ],
+  "zones": [
+    {
+      "id": "ZONE-01",
+      "name": "Harborview Monitored Zone",
+      "type": "Monitored Zone",
+      "center": {
+        "lat": 39.293,
+        "lng": -76.601
+      },
+      "radiusM": 900
+    },
+    {
+      "id": "ZONE-02",
+      "name": "Demo Restricted Zone Alpha",
+      "type": "Demo Restricted Zone",
+      "center": {
+        "lat": 39.263,
+        "lng": -76.626
+      },
+      "radiusM": 650
+    },
+    {
+      "id": "ZONE-03",
+      "name": "Riverside Alert Zone",
+      "type": "Alert Zone",
+      "center": {
+        "lat": 39.308,
+        "lng": -76.646
+      },
+      "radiusM": 700
+    }
+  ],
+  "simulatedDrones": [
+    {
+      "id": "DRN-00043",
+      "manufacturer": "Meridian Flight Co.",
+      "model": "Meridian Compact",
+      "serialNumber": "B6ALTDYA3GMH",
+      "identityStatus": "MATCHED",
+      "ownerRef": "BUY-00016",
+      "operatorName": "Shanelle Maggio",
+      "purpose": "Education",
+      "registrationState": "Not Required",
+      "purchaseId": "PUR-00097",
+      "vendorId": "VEN-00009",
+      "path": [
+        {
+          "lat": 39.27353286770684,
+          "lng": -76.64646170722156,
+          "altitude": 45
+        },
+        {
+          "lat": 39.26976375562867,
+          "lng": -76.61343467620866,
+          "altitude": 73
+        },
+        {
+          "lat": 39.26884871461706,
+          "lng": -76.58679161102809,
+          "altitude": 52
+        }
+      ],
+      "speedKph": 39,
+      "detectionSource": "Simulated Sensor Network"
+    },
+    {
+      "id": "DRN-00037",
+      "manufacturer": "Aerovance",
+      "model": "Aerovance S7",
+      "serialNumber": "PI5X965H86ZS",
+      "identityStatus": "MATCHED",
+      "ownerRef": "BUY-00009",
+      "operatorName": "Reta Thiel-Stokes",
+      "purpose": "Inspection",
+      "registrationState": "Not Required",
+      "purchaseId": "PUR-00085",
+      "vendorId": "VEN-00016",
+      "path": [
+        {
+          "lat": 39.26607072412499,
+          "lng": -76.59477807276146,
+          "altitude": 75
+        },
+        {
+          "lat": 39.25823695207031,
+          "lng": -76.61682214574728,
+          "altitude": 132
+        },
+        {
+          "lat": 39.25738463822897,
+          "lng": -76.63825711028434,
+          "altitude": 115
+        }
+      ],
+      "speedKph": 45,
+      "detectionSource": "Simulated Sensor Network"
+    },
+    {
+      "id": "DRN-00055",
+      "manufacturer": "Northwing Systems",
+      "model": "Northwing Scout",
+      "serialNumber": "G3W9AQ3TX1S9",
+      "identityStatus": "MATCHED",
+      "ownerRef": "BUY-00037",
+      "operatorName": "Dr. Jayden Langworth",
+      "purpose": "Emergency Response",
+      "registrationState": "Not Required",
+      "purchaseId": "PUR-00118",
+      "vendorId": "VEN-00022",
+      "path": [
+        {
+          "lat": 39.27119928186652,
+          "lng": -76.62191954890545,
+          "altitude": 119
+        },
+        {
+          "lat": 39.25964483264893,
+          "lng": -76.635372380768,
+          "altitude": 115
+        },
+        {
+          "lat": 39.24701552423543,
+          "lng": -76.6465460500869,
+          "altitude": 107
+        }
+      ],
+      "speedKph": 50,
+      "detectionSource": "Simulated Sensor Network"
+    },
+    {
+      "id": "DRN-00044",
+      "manufacturer": "Northwing Systems",
+      "model": "Northwing Scout",
+      "serialNumber": "5ZYYT9HG9GXG",
+      "identityStatus": "MATCHED",
+      "ownerRef": "BUY-00009",
+      "operatorName": "Reta Thiel-Stokes",
+      "purpose": "Education",
+      "registrationState": "Pending Registration",
+      "purchaseId": "PUR-00098",
+      "vendorId": "VEN-00022",
+      "path": [
+        {
+          "lat": 39.273611634809285,
+          "lng": -76.64326678685843,
+          "altitude": 115
+        },
+        {
+          "lat": 39.280708987644985,
+          "lng": -76.6142903777252,
+          "altitude": 115
+        },
+        {
+          "lat": 39.28279842387387,
+          "lng": -76.59336778618626,
+          "altitude": 95
+        }
+      ],
+      "speedKph": 60,
+      "detectionSource": "Simulated Sensor Network"
+    },
+    {
+      "id": "DRN-00056",
+      "manufacturer": "Talon Dynamics",
+      "model": "Talon MK2",
+      "serialNumber": "URFDEP7A03PN",
+      "identityStatus": "MATCHED",
+      "ownerRef": "BUY-00022",
+      "operatorName": "Isaias Little",
+      "purpose": "Infrastructure",
+      "registrationState": "Not Required",
+      "purchaseId": "PUR-00122",
+      "vendorId": "VEN-00008",
+      "path": [
+        {
+          "lat": 39.26652702544159,
+          "lng": -76.64690627009891,
+          "altitude": 63
+        },
+        {
+          "lat": 39.29311572995284,
+          "lng": -76.61927490022177,
+          "altitude": 70
+        },
+        {
+          "lat": 39.316582608593606,
+          "lng": -76.58570282470396,
+          "altitude": 67
+        }
+      ],
+      "speedKph": 68,
+      "detectionSource": "Simulated Sensor Network"
+    },
+    {
+      "id": "DRN-00091",
+      "manufacturer": "Meridian Flight Co.",
+      "model": "Meridian Compact",
+      "serialNumber": "7UQ0T5V2K8RD",
+      "identityStatus": "MATCHED",
+      "ownerRef": "BUY-00013",
+      "operatorName": "Carmela Simonis",
+      "purpose": "Film / Media",
+      "registrationState": "Pending Registration",
+      "purchaseId": "PUR-00204",
+      "vendorId": "VEN-00009",
+      "path": [
+        {
+          "lat": 39.31806368056704,
+          "lng": -76.6099743107358,
+          "altitude": 63
+        },
+        {
+          "lat": 39.281679163205354,
+          "lng": -76.62513513137128,
+          "altitude": 140
+        },
+        {
+          "lat": 39.24898885954681,
+          "lng": -76.63736833444275,
+          "altitude": 116
+        }
+      ],
+      "speedKph": 27,
+      "detectionSource": "Simulated Sensor Network"
+    },
+    {
+      "id": "DRN-00064",
+      "manufacturer": "Aerovance",
+      "model": "Aerovance S7",
+      "serialNumber": "G4888RME4OC9",
+      "identityStatus": "MATCHED",
+      "ownerRef": "BUY-00028",
+      "operatorName": "Syble Feil",
+      "purpose": "Emergency Response",
+      "registrationState": "Pending Registration",
+      "purchaseId": "PUR-00139",
+      "vendorId": "VEN-00016",
+      "path": [
+        {
+          "lat": 39.26996657525303,
+          "lng": -76.60336727101242,
+          "altitude": 99
+        },
+        {
+          "lat": 39.27189271744681,
+          "lng": -76.63312279543943,
+          "altitude": 120
+        },
+        {
+          "lat": 39.26461324244201,
+          "lng": -76.65449251830606,
+          "altitude": 99
+        }
+      ],
+      "speedKph": 33,
+      "detectionSource": "Simulated Sensor Network"
+    },
+    {
+      "id": "DRN-00024",
+      "manufacturer": "Kestrel Robotics",
+      "model": "Kestrel Recon",
+      "serialNumber": "Z1QCTUODZJ63",
+      "identityStatus": "MATCHED",
+      "ownerRef": "BUY-00006",
+      "operatorName": "Cristobal Will",
+      "purpose": "Infrastructure",
+      "registrationState": "Registered",
+      "purchaseId": "PUR-00052",
+      "vendorId": "VEN-00021",
+      "path": [
+        {
+          "lat": 39.3195754898066,
+          "lng": -76.63634802558812,
+          "altitude": 58
+        },
+        {
+          "lat": 39.30105021918206,
+          "lng": -76.64660371424554,
+          "altitude": 89
+        },
+        {
+          "lat": 39.272678273985676,
+          "lng": -76.653671457253,
+          "altitude": 43
+        }
+      ],
+      "speedKph": 49,
+      "detectionSource": "Simulated Sensor Network"
+    },
+    {
+      "id": "DRN-00046",
+      "manufacturer": "Northwing Systems",
+      "model": "Northwing Scout",
+      "serialNumber": "SXEMH7V8ZIWA",
+      "identityStatus": "MATCHED",
+      "ownerRef": "BUY-00043",
+      "operatorName": "Domenic O'Hara",
+      "purpose": "Agriculture",
+      "registrationState": "Pending Registration",
+      "purchaseId": "PUR-00100",
+      "vendorId": "VEN-00022",
+      "path": [
+        {
+          "lat": 39.274869132994226,
+          "lng": -76.61680559433808,
+          "altitude": 89
+        },
+        {
+          "lat": 39.27376060383735,
+          "lng": -76.61526964604334,
+          "altitude": 120
+        },
+        {
+          "lat": 39.280479233153024,
+          "lng": -76.60400889893221,
+          "altitude": 90
+        }
+      ],
+      "speedKph": 27,
+      "detectionSource": "Simulated Sensor Network"
+    },
+    {
+      "id": "DRN-00096",
+      "manufacturer": "Aerovance",
+      "model": "Aerovance S7",
+      "serialNumber": "5DX3M5KCPE7L",
+      "identityStatus": "MATCHED",
+      "ownerRef": "BUY-00013",
+      "operatorName": "Carmela Simonis",
+      "purpose": "Recreation",
+      "registrationState": "Pending Registration",
+      "purchaseId": "PUR-00220",
+      "vendorId": "VEN-00016",
+      "path": [
+        {
+          "lat": 39.28234537312679,
+          "lng": -76.59627080769644,
+          "altitude": 60
+        },
+        {
+          "lat": 39.288587453568404,
+          "lng": -76.61248790930584,
+          "altitude": 128
+        },
+        {
+          "lat": 39.29670984469001,
+          "lng": -76.63408338810237,
+          "altitude": 85
+        }
+      ],
+      "speedKph": 39,
+      "detectionSource": "Simulated Sensor Network"
+    },
+    {
+      "id": "DRN-00063",
+      "manufacturer": "Aerovance",
+      "model": "Aerovance S7",
+      "serialNumber": "LNCU1YYPNVX0",
+      "identityStatus": "MATCHED",
+      "ownerRef": "BUY-00021",
+      "operatorName": "Rory Dare",
+      "purpose": "Emergency Response",
+      "registrationState": "Registered",
+      "purchaseId": "PUR-00137",
+      "vendorId": "VEN-00003",
+      "path": [
+        {
+          "lat": 39.26043844587189,
+          "lng": -76.61792065675733,
+          "altitude": 71
+        },
+        {
+          "lat": 39.27202294765339,
+          "lng": -76.61454522176857,
+          "altitude": 136
+        },
+        {
+          "lat": 39.27706232963912,
+          "lng": -76.61287577616976,
+          "altitude": 53
+        }
+      ],
+      "speedKph": 35,
+      "detectionSource": "Simulated Sensor Network"
+    },
+    {
+      "id": "DRN-00095",
+      "manufacturer": "Aerovance",
+      "model": "Aerovance S7",
+      "serialNumber": "C2HZ49EYG9S9",
+      "identityStatus": "MATCHED",
+      "ownerRef": "BUY-00014",
+      "operatorName": "Dr. David Ernser I",
+      "purpose": "Security",
+      "registrationState": "Pending Registration",
+      "purchaseId": "PUR-00219",
+      "vendorId": "VEN-00003",
+      "path": [
+        {
+          "lat": 39.24691890803751,
+          "lng": -76.61163986701193,
+          "altitude": 79
+        },
+        {
+          "lat": 39.25277117995787,
+          "lng": -76.62423168158845,
+          "altitude": 77
+        },
+        {
+          "lat": 39.25750416263426,
+          "lng": -76.63122099566402,
+          "altitude": 65
+        }
+      ],
+      "speedKph": 68,
+      "detectionSource": "Simulated Sensor Network"
+    },
+    {
+      "id": "UNK-1000",
+      "manufacturer": "Unknown",
+      "model": "Unresolved Signature",
+      "serialNumber": null,
+      "identityStatus": "PARTIAL MATCH",
+      "ownerRef": null,
+      "operatorName": null,
+      "purpose": null,
+      "registrationState": "Unknown",
+      "purchaseId": null,
+      "vendorId": null,
+      "path": [
+        {
+          "lat": 39.24395883472918,
+          "lng": -76.62126043039132,
+          "altitude": 96
+        },
+        {
+          "lat": 39.28505126645828,
+          "lng": -76.63274398328814,
+          "altitude": 50
+        }
+      ],
+      "speedKph": 21,
+      "detectionSource": "Simulated Sensor Network"
+    },
+    {
+      "id": "UNK-1001",
+      "manufacturer": "Unknown",
+      "model": "Unresolved Signature",
+      "serialNumber": null,
+      "identityStatus": "UNRESOLVED",
+      "ownerRef": null,
+      "operatorName": null,
+      "purpose": null,
+      "registrationState": "Unknown",
+      "purchaseId": null,
+      "vendorId": null,
+      "path": [
+        {
+          "lat": 39.316586063804436,
+          "lng": -76.57425814930335,
+          "altitude": 65
+        },
+        {
+          "lat": 39.288016338691044,
+          "lng": -76.59924607661875,
+          "altitude": 52
+        }
+      ],
+      "speedKph": 43,
+      "detectionSource": "Simulated Sensor Network"
+    },
+    {
+      "id": "UNK-1002",
+      "manufacturer": "Unknown",
+      "model": "Unresolved Signature",
+      "serialNumber": null,
+      "identityStatus": "PARTIAL MATCH",
+      "ownerRef": null,
+      "operatorName": null,
+      "purpose": null,
+      "registrationState": "Unknown",
+      "purchaseId": null,
+      "vendorId": null,
+      "path": [
+        {
+          "lat": 39.28350419765025,
+          "lng": -76.63639871004972,
+          "altitude": 86
+        },
+        {
+          "lat": 39.28057610638649,
+          "lng": -76.59072313067296,
+          "altitude": 89
+        }
+      ],
+      "speedKph": 49,
+      "detectionSource": "Simulated Sensor Network"
+    }
+  ],
+  "flights": [
+    {
+      "id": "FLT-00001",
+      "droneId": "DRN-00086",
+      "operatorName": "Sonya Harber",
+      "start": "2026-07-18T04:26:39.363Z",
+      "end": "2026-07-18T04:59:39.363Z",
+      "durationMin": 33,
+      "location": "Pacific Northwest",
+      "purpose": "Other",
+      "status": "Completed",
+      "alertCount": 0
+    },
+    {
+      "id": "FLT-00002",
+      "droneId": "DRN-00010",
+      "operatorName": "Casimer Heaney",
+      "start": "2026-07-25T06:30:28.612Z",
+      "end": "2026-07-25T06:42:28.612Z",
+      "durationMin": 12,
+      "location": "Mountain West",
+      "purpose": "Security",
+      "status": "Completed",
+      "alertCount": 0
+    },
+    {
+      "id": "FLT-00003",
+      "droneId": "DRN-00036",
+      "operatorName": "Kenya Price",
+      "start": "2026-09-11T20:29:49.744Z",
+      "end": "2026-09-11T20:40:49.744Z",
+      "durationMin": 11,
+      "location": "Mountain West",
+      "purpose": "Other",
+      "status": "Flagged",
+      "alertCount": 0
+    },
+    {
+      "id": "FLT-00004",
+      "droneId": "DRN-00081",
+      "operatorName": "Danika Walker",
+      "start": "2026-07-24T17:35:59.762Z",
+      "end": "2026-07-24T18:19:59.762Z",
+      "durationMin": 44,
+      "location": "Midwest",
+      "purpose": "Infrastructure",
+      "status": "Completed",
+      "alertCount": 1
+    },
+    {
+      "id": "FLT-00005",
+      "droneId": "DRN-00024",
+      "operatorName": "Cristobal Will",
+      "start": "2026-09-04T23:55:14.641Z",
+      "end": "2026-09-05T00:27:14.641Z",
+      "durationMin": 32,
+      "location": "West Coast",
+      "purpose": "Infrastructure",
+      "status": "Completed",
+      "alertCount": 1
+    },
+    {
+      "id": "FLT-00006",
+      "droneId": "DRN-00013",
+      "operatorName": "Francesco Mayer",
+      "start": "2026-08-08T20:08:53.207Z",
+      "end": "2026-08-08T20:31:53.207Z",
+      "durationMin": 23,
+      "location": "Southwest",
+      "purpose": "Film / Media",
+      "status": "Completed",
+      "alertCount": 2
+    },
+    {
+      "id": "FLT-00007",
+      "droneId": "DRN-00074",
+      "operatorName": "Shawna Miller",
+      "start": "2026-08-22T04:43:28.472Z",
+      "end": "2026-08-22T05:04:28.472Z",
+      "durationMin": 21,
+      "location": "Southeast",
+      "purpose": "Inspection",
+      "status": "Completed",
+      "alertCount": 1
+    },
+    {
+      "id": "FLT-00008",
+      "droneId": "DRN-00012",
+      "operatorName": "Jamil Abbott",
+      "start": "2026-07-28T04:19:32.699Z",
+      "end": "2026-07-28T04:40:32.699Z",
+      "durationMin": 21,
+      "location": "Midwest",
+      "purpose": "Infrastructure",
+      "status": "Completed",
+      "alertCount": 2
+    },
+    {
+      "id": "FLT-00009",
+      "droneId": "DRN-00004",
+      "operatorName": "Art Stark",
+      "start": "2026-08-30T09:17:43.333Z",
+      "end": "2026-08-30T09:51:43.333Z",
+      "durationMin": 34,
+      "location": "Pacific Northwest",
+      "purpose": "Recreation",
+      "status": "Completed",
+      "alertCount": 0
+    },
+    {
+      "id": "FLT-00010",
+      "droneId": "DRN-00055",
+      "operatorName": "Dr. Jayden Langworth",
+      "start": "2026-07-26T13:17:19.158Z",
+      "end": "2026-07-26T13:22:19.158Z",
+      "durationMin": 5,
+      "location": "Midwest",
+      "purpose": "Emergency Response",
+      "status": "Completed",
+      "alertCount": 0
+    },
+    {
+      "id": "FLT-00011",
+      "droneId": "DRN-00035",
+      "operatorName": "Judge Lubowitz",
+      "start": "2026-08-14T14:36:34.078Z",
+      "end": "2026-08-14T15:03:34.078Z",
+      "durationMin": 27,
+      "location": "Northeast",
+      "purpose": "Recreation",
+      "status": "Completed",
+      "alertCount": 1
+    },
+    {
+      "id": "FLT-00012",
+      "droneId": "DRN-00054",
+      "operatorName": "Johann Hilll",
+      "start": "2026-07-24T02:28:36.175Z",
+      "end": "2026-07-24T02:39:36.175Z",
+      "durationMin": 11,
+      "location": "Pacific Northwest",
+      "purpose": "Inspection",
+      "status": "Completed",
+      "alertCount": 1
+    },
+    {
+      "id": "FLT-00013",
+      "droneId": "DRN-00044",
+      "operatorName": "Reta Thiel-Stokes",
+      "start": "2026-08-24T20:16:32.067Z",
+      "end": "2026-08-24T20:43:32.067Z",
+      "durationMin": 27,
+      "location": "Pacific Northwest",
+      "purpose": "Education",
+      "status": "Flagged",
+      "alertCount": 1
+    },
+    {
+      "id": "FLT-00014",
+      "droneId": "DRN-00051",
+      "operatorName": "Ford Kuphal-Cruickshank",
+      "start": "2026-09-07T10:26:00.851Z",
+      "end": "2026-09-07T11:00:00.851Z",
+      "durationMin": 34,
+      "location": "Midwest",
+      "purpose": "Agriculture",
+      "status": "Flagged",
+      "alertCount": 2
+    },
+    {
+      "id": "FLT-00015",
+      "droneId": "DRN-00019",
+      "operatorName": "Mr. Mose DuBuque",
+      "start": "2026-08-10T18:22:54.569Z",
+      "end": "2026-08-10T18:26:54.569Z",
+      "durationMin": 4,
+      "location": "West Coast",
+      "purpose": "Other",
+      "status": "Flagged",
+      "alertCount": 0
+    },
+    {
+      "id": "FLT-00016",
+      "droneId": "DRN-00020",
+      "operatorName": "Eli McCullough",
+      "start": "2026-08-28T17:01:01.010Z",
+      "end": "2026-08-28T17:32:01.010Z",
+      "durationMin": 31,
+      "location": "Southeast",
+      "purpose": "Recreation",
+      "status": "Flagged",
+      "alertCount": 0
+    },
+    {
+      "id": "FLT-00017",
+      "droneId": "DRN-00064",
+      "operatorName": "Syble Feil",
+      "start": "2026-07-18T06:56:52.731Z",
+      "end": "2026-07-18T07:25:52.731Z",
+      "durationMin": 29,
+      "location": "Midwest",
+      "purpose": "Emergency Response",
+      "status": "Completed",
+      "alertCount": 0
+    },
+    {
+      "id": "FLT-00018",
+      "droneId": "DRN-00037",
+      "operatorName": "Reta Thiel-Stokes",
+      "start": "2026-07-29T11:12:10.149Z",
+      "end": "2026-07-29T11:42:10.149Z",
+      "durationMin": 30,
+      "location": "Southeast",
+      "purpose": "Inspection",
+      "status": "Completed",
+      "alertCount": 0
+    },
+    {
+      "id": "FLT-00019",
+      "droneId": "DRN-00074",
+      "operatorName": "Shawna Miller",
+      "start": "2026-08-09T07:50:11.872Z",
+      "end": "2026-08-09T08:18:11.872Z",
+      "durationMin": 28,
+      "location": "Northeast",
+      "purpose": "Inspection",
+      "status": "Completed",
+      "alertCount": 1
+    },
+    {
+      "id": "FLT-00020",
+      "droneId": "DRN-00017",
+      "operatorName": "Kelly Rogahn",
+      "start": "2026-07-23T13:27:20.605Z",
+      "end": "2026-07-23T13:42:20.605Z",
+      "durationMin": 15,
+      "location": "Northeast",
+      "purpose": "Agriculture",
+      "status": "Completed",
+      "alertCount": 2
+    },
+    {
+      "id": "FLT-00021",
+      "droneId": "DRN-00026",
+      "operatorName": "Abe Kunze V",
+      "start": "2026-08-15T01:53:10.663Z",
+      "end": "2026-08-15T02:20:10.663Z",
+      "durationMin": 27,
+      "location": "West Coast",
+      "purpose": "Infrastructure",
+      "status": "Completed",
+      "alertCount": 2
+    },
+    {
+      "id": "FLT-00022",
+      "droneId": "DRN-00067",
+      "operatorName": "Sonya Harber",
+      "start": "2026-07-25T16:13:08.074Z",
+      "end": "2026-07-25T16:19:08.074Z",
+      "durationMin": 6,
+      "location": "Southeast",
+      "purpose": "Inspection",
+      "status": "Flagged",
+      "alertCount": 1
+    },
+    {
+      "id": "FLT-00023",
+      "droneId": "DRN-00017",
+      "operatorName": "Kelly Rogahn",
+      "start": "2026-08-09T18:52:26.276Z",
+      "end": "2026-08-09T19:14:26.276Z",
+      "durationMin": 22,
+      "location": "Mountain West",
+      "purpose": "Agriculture",
+      "status": "Completed",
+      "alertCount": 1
+    },
+    {
+      "id": "FLT-00024",
+      "droneId": "DRN-00045",
+      "operatorName": "Oma Crooks",
+      "start": "2026-08-02T10:05:15.039Z",
+      "end": "2026-08-02T10:23:15.039Z",
+      "durationMin": 18,
+      "location": "Southeast",
+      "purpose": "Film / Media",
+      "status": "Completed",
+      "alertCount": 2
+    },
+    {
+      "id": "FLT-00025",
+      "droneId": "DRN-00054",
+      "operatorName": "Johann Hilll",
+      "start": "2026-09-12T01:43:39.253Z",
+      "end": "2026-09-12T01:56:39.253Z",
+      "durationMin": 13,
+      "location": "Southeast",
+      "purpose": "Inspection",
+      "status": "Flagged",
+      "alertCount": 1
+    },
+    {
+      "id": "FLT-00026",
+      "droneId": "DRN-00023",
+      "operatorName": "Justice Shields",
+      "start": "2026-07-17T23:15:30.197Z",
+      "end": "2026-07-17T23:28:30.197Z",
+      "durationMin": 13,
+      "location": "West Coast",
+      "purpose": "Emergency Response",
+      "status": "Completed",
+      "alertCount": 0
+    },
+    {
+      "id": "FLT-00027",
+      "droneId": "DRN-00053",
+      "operatorName": "Ethelyn Gottlieb",
+      "start": "2026-07-21T07:24:14.681Z",
+      "end": "2026-07-21T07:46:14.681Z",
+      "durationMin": 22,
+      "location": "Southeast",
+      "purpose": "Other",
+      "status": "Completed",
+      "alertCount": 2
+    },
+    {
+      "id": "FLT-00028",
+      "droneId": "DRN-00037",
+      "operatorName": "Reta Thiel-Stokes",
+      "start": "2026-08-25T07:26:04.271Z",
+      "end": "2026-08-25T07:33:04.271Z",
+      "durationMin": 7,
+      "location": "Midwest",
+      "purpose": "Inspection",
+      "status": "Completed",
+      "alertCount": 0
+    },
+    {
+      "id": "FLT-00029",
+      "droneId": "DRN-00038",
+      "operatorName": "Bo Lubowitz",
+      "start": "2026-07-25T07:01:21.126Z",
+      "end": "2026-07-25T07:38:21.126Z",
+      "durationMin": 37,
+      "location": "West Coast",
+      "purpose": "Agriculture",
+      "status": "Completed",
+      "alertCount": 0
+    },
+    {
+      "id": "FLT-00030",
+      "droneId": "DRN-00034",
+      "operatorName": "Eulalia Terry",
+      "start": "2026-08-02T10:21:47.638Z",
+      "end": "2026-08-02T10:38:47.638Z",
+      "durationMin": 17,
+      "location": "West Coast",
+      "purpose": "Infrastructure",
+      "status": "Completed",
+      "alertCount": 2
+    },
+    {
+      "id": "FLT-00031",
+      "droneId": "DRN-00036",
+      "operatorName": "Kenya Price",
+      "start": "2026-07-14T22:44:33.284Z",
+      "end": "2026-07-14T23:12:33.284Z",
+      "durationMin": 28,
+      "location": "Southwest",
+      "purpose": "Other",
+      "status": "Flagged",
+      "alertCount": 0
+    },
+    {
+      "id": "FLT-00032",
+      "droneId": "DRN-00089",
+      "operatorName": "Mathilde Hahn",
+      "start": "2026-09-11T02:55:01.571Z",
+      "end": "2026-09-11T03:21:01.571Z",
+      "durationMin": 26,
+      "location": "Southwest",
+      "purpose": "Other",
+      "status": "Completed",
+      "alertCount": 1
+    },
+    {
+      "id": "FLT-00033",
+      "droneId": "DRN-00021",
+      "operatorName": "Furman Gerhold",
+      "start": "2026-08-15T22:39:22.042Z",
+      "end": "2026-08-15T23:03:22.042Z",
+      "durationMin": 24,
+      "location": "Midwest",
+      "purpose": "Security",
+      "status": "Completed",
+      "alertCount": 1
+    },
+    {
+      "id": "FLT-00034",
+      "droneId": "DRN-00010",
+      "operatorName": "Casimer Heaney",
+      "start": "2026-08-30T18:30:04.084Z",
+      "end": "2026-08-30T19:09:04.084Z",
+      "durationMin": 39,
+      "location": "Northeast",
+      "purpose": "Security",
+      "status": "Completed",
+      "alertCount": 2
+    },
+    {
+      "id": "FLT-00035",
+      "droneId": "DRN-00085",
+      "operatorName": "Kiley Runolfsson",
+      "start": "2026-07-18T03:02:38.433Z",
+      "end": "2026-07-18T03:39:38.433Z",
+      "durationMin": 37,
+      "location": "Northeast",
+      "purpose": "Recreation",
+      "status": "Flagged",
+      "alertCount": 0
+    },
+    {
+      "id": "FLT-00036",
+      "droneId": "DRN-00031",
+      "operatorName": "Sydnee Hills-Okuneva",
+      "start": "2026-09-08T07:23:35.789Z",
+      "end": "2026-09-08T07:48:35.789Z",
+      "durationMin": 25,
+      "location": "Mountain West",
+      "purpose": "Infrastructure",
+      "status": "Flagged",
+      "alertCount": 2
+    },
+    {
+      "id": "FLT-00037",
+      "droneId": "DRN-00022",
+      "operatorName": "Mathias Bednar",
+      "start": "2026-08-24T22:41:40.266Z",
+      "end": "2026-08-24T22:59:40.266Z",
+      "durationMin": 18,
+      "location": "West Coast",
+      "purpose": "Other",
+      "status": "Completed",
+      "alertCount": 1
+    },
+    {
+      "id": "FLT-00038",
+      "droneId": "DRN-00002",
+      "operatorName": "Shanny Paucek MD",
+      "start": "2026-08-16T01:07:42.501Z",
+      "end": "2026-08-16T01:19:42.501Z",
+      "durationMin": 12,
+      "location": "Pacific Northwest",
+      "purpose": "Agriculture",
+      "status": "Flagged",
+      "alertCount": 0
+    },
+    {
+      "id": "FLT-00039",
+      "droneId": "DRN-00038",
+      "operatorName": "Bo Lubowitz",
+      "start": "2026-09-01T09:51:30.126Z",
+      "end": "2026-09-01T10:15:30.126Z",
+      "durationMin": 24,
+      "location": "Mountain West",
+      "purpose": "Agriculture",
+      "status": "Completed",
+      "alertCount": 0
+    },
+    {
+      "id": "FLT-00040",
+      "droneId": "DRN-00006",
+      "operatorName": "Carroll Dicki",
+      "start": "2026-08-30T15:07:34.620Z",
+      "end": "2026-08-30T15:25:34.620Z",
+      "durationMin": 18,
+      "location": "Southeast",
+      "purpose": "Survey / Mapping",
+      "status": "Completed",
+      "alertCount": 1
+    }
+  ],
+  "alerts": [
+    {
+      "id": "ALT-00001",
+      "type": "Lost Telemetry",
+      "severity": "Critical",
+      "droneId": "DRN-00044",
+      "zoneId": null,
+      "timestamp": "2026-08-23T23:41:53.205Z",
+      "status": "Resolved",
+      "description": "Lost Telemetry detected for drone DRN-00044 (Northwing Scout)."
+    },
+    {
+      "id": "ALT-00002",
+      "type": "Lost Telemetry",
+      "severity": "High",
+      "droneId": "UNK-1002",
+      "zoneId": null,
+      "timestamp": "2026-09-08T10:05:45.132Z",
+      "status": "Resolved",
+      "description": "Lost Telemetry detected for drone UNK-1002 (Unresolved Signature)."
+    },
+    {
+      "id": "ALT-00003",
+      "type": "Unknown Drone",
+      "severity": "Low",
+      "droneId": "DRN-00091",
+      "zoneId": null,
+      "timestamp": "2026-09-03T06:16:46.147Z",
+      "status": "Open",
+      "description": "Unknown Drone detected for drone DRN-00091 (Meridian Compact)."
+    },
+    {
+      "id": "ALT-00004",
+      "type": "Identity Not Resolved",
+      "severity": "High",
+      "droneId": "DRN-00095",
+      "zoneId": null,
+      "timestamp": "2026-09-08T16:04:40.590Z",
+      "status": "Resolved",
+      "description": "Identity Not Resolved detected for drone DRN-00095 (Aerovance S7)."
+    },
+    {
+      "id": "ALT-00005",
+      "type": "Unknown Drone",
+      "severity": "High",
+      "droneId": "UNK-1001",
+      "zoneId": null,
+      "timestamp": "2026-09-07T11:00:36.094Z",
+      "status": "Resolved",
+      "description": "Unknown Drone detected for drone UNK-1001 (Unresolved Signature)."
+    },
+    {
+      "id": "ALT-00006",
+      "type": "Restricted Zone Entry",
+      "severity": "Critical",
+      "droneId": "DRN-00055",
+      "zoneId": "ZONE-03",
+      "timestamp": "2026-08-13T22:08:39.847Z",
+      "status": "Resolved",
+      "description": "Restricted Zone Entry detected for drone DRN-00055 (Northwing Scout)."
+    },
+    {
+      "id": "ALT-00007",
+      "type": "Authorization Mismatch",
+      "severity": "High",
+      "droneId": "DRN-00064",
+      "zoneId": null,
+      "timestamp": "2026-09-09T14:42:33.405Z",
+      "status": "Resolved",
+      "description": "Authorization Mismatch detected for drone DRN-00064 (Aerovance S7)."
+    },
+    {
+      "id": "ALT-00008",
+      "type": "Authorization Mismatch",
+      "severity": "Critical",
+      "droneId": "DRN-00055",
+      "zoneId": null,
+      "timestamp": "2026-08-14T17:09:53.495Z",
+      "status": "Acknowledged",
+      "description": "Authorization Mismatch detected for drone DRN-00055 (Northwing Scout)."
+    },
+    {
+      "id": "ALT-00009",
+      "type": "Authorization Mismatch",
+      "severity": "Critical",
+      "droneId": "DRN-00043",
+      "zoneId": null,
+      "timestamp": "2026-08-14T23:15:59.168Z",
+      "status": "Resolved",
+      "description": "Authorization Mismatch detected for drone DRN-00043 (Meridian Compact)."
+    },
+    {
+      "id": "ALT-00010",
+      "type": "Restricted Zone Entry",
+      "severity": "Medium",
+      "droneId": "DRN-00056",
+      "zoneId": "ZONE-03",
+      "timestamp": "2026-09-10T11:20:15.949Z",
+      "status": "Acknowledged",
+      "description": "Restricted Zone Entry detected for drone DRN-00056 (Talon MK2)."
+    },
+    {
+      "id": "ALT-00011",
+      "type": "Telemetry Anomaly",
+      "severity": "Critical",
+      "droneId": "DRN-00091",
+      "zoneId": null,
+      "timestamp": "2026-09-04T04:14:00.829Z",
+      "status": "Resolved",
+      "description": "Telemetry Anomaly detected for drone DRN-00091 (Meridian Compact)."
+    },
+    {
+      "id": "ALT-00012",
+      "type": "Restricted Zone Entry",
+      "severity": "High",
+      "droneId": "DRN-00091",
+      "zoneId": "ZONE-02",
+      "timestamp": "2026-09-05T17:27:45.133Z",
+      "status": "Resolved",
+      "description": "Restricted Zone Entry detected for drone DRN-00091 (Meridian Compact)."
+    },
+    {
+      "id": "ALT-00013",
+      "type": "System Alert",
+      "severity": "High",
+      "droneId": "DRN-00063",
+      "zoneId": null,
+      "timestamp": "2026-09-10T11:40:00.914Z",
+      "status": "Open",
+      "description": "System Alert detected for drone DRN-00063 (Aerovance S7)."
+    },
+    {
+      "id": "ALT-00014",
+      "type": "Identity Not Resolved",
+      "severity": "Medium",
+      "droneId": "DRN-00024",
+      "zoneId": null,
+      "timestamp": "2026-09-01T17:46:19.096Z",
+      "status": "Resolved",
+      "description": "Identity Not Resolved detected for drone DRN-00024 (Kestrel Recon)."
+    },
+    {
+      "id": "ALT-00015",
+      "type": "Restricted Zone Entry",
+      "severity": "High",
+      "droneId": "DRN-00063",
+      "zoneId": "ZONE-02",
+      "timestamp": "2026-08-29T01:49:57.800Z",
+      "status": "Resolved",
+      "description": "Restricted Zone Entry detected for drone DRN-00063 (Aerovance S7)."
+    },
+    {
+      "id": "ALT-00016",
+      "type": "System Alert",
+      "severity": "Critical",
+      "droneId": "DRN-00046",
+      "zoneId": null,
+      "timestamp": "2026-08-31T15:19:51.768Z",
+      "status": "Resolved",
+      "description": "System Alert detected for drone DRN-00046 (Northwing Scout)."
+    },
+    {
+      "id": "ALT-00017",
+      "type": "Restricted Zone Entry",
+      "severity": "High",
+      "droneId": "DRN-00091",
+      "zoneId": "ZONE-02",
+      "timestamp": "2026-08-24T12:33:33.923Z",
+      "status": "Resolved",
+      "description": "Restricted Zone Entry detected for drone DRN-00091 (Meridian Compact)."
+    },
+    {
+      "id": "ALT-00018",
+      "type": "Telemetry Anomaly",
+      "severity": "Critical",
+      "droneId": "DRN-00056",
+      "zoneId": null,
+      "timestamp": "2026-08-28T23:37:53.091Z",
+      "status": "Resolved",
+      "description": "Telemetry Anomaly detected for drone DRN-00056 (Talon MK2)."
+    },
+    {
+      "id": "ALT-00019",
+      "type": "Lost Telemetry",
+      "severity": "Low",
+      "droneId": "UNK-1000",
+      "zoneId": null,
+      "timestamp": "2026-08-22T10:24:57.465Z",
+      "status": "Resolved",
+      "description": "Lost Telemetry detected for drone UNK-1000 (Unresolved Signature)."
+    },
+    {
+      "id": "ALT-00020",
+      "type": "System Alert",
+      "severity": "High",
+      "droneId": "DRN-00095",
+      "zoneId": null,
+      "timestamp": "2026-09-11T05:29:56.044Z",
+      "status": "Open",
+      "description": "System Alert detected for drone DRN-00095 (Aerovance S7)."
+    },
+    {
+      "id": "ALT-00021",
+      "type": "Unknown Drone",
+      "severity": "High",
+      "droneId": "UNK-1001",
+      "zoneId": null,
+      "timestamp": "2026-08-25T08:48:05.817Z",
+      "status": "Acknowledged",
+      "description": "Unknown Drone detected for drone UNK-1001 (Unresolved Signature)."
+    },
+    {
+      "id": "ALT-00022",
+      "type": "Authorization Mismatch",
+      "severity": "High",
+      "droneId": "DRN-00043",
+      "zoneId": null,
+      "timestamp": "2026-08-23T21:07:09.262Z",
+      "status": "Acknowledged",
+      "description": "Authorization Mismatch detected for drone DRN-00043 (Meridian Compact)."
+    },
+    {
+      "id": "ALT-00023",
+      "type": "Unknown Drone",
+      "severity": "Low",
+      "droneId": "UNK-1000",
+      "zoneId": null,
+      "timestamp": "2026-08-22T21:56:25.723Z",
+      "status": "Acknowledged",
+      "description": "Unknown Drone detected for drone UNK-1000 (Unresolved Signature)."
+    },
+    {
+      "id": "ALT-00024",
+      "type": "Telemetry Anomaly",
+      "severity": "Medium",
+      "droneId": "UNK-1002",
+      "zoneId": null,
+      "timestamp": "2026-09-02T11:53:55.085Z",
+      "status": "Resolved",
+      "description": "Telemetry Anomaly detected for drone UNK-1002 (Unresolved Signature)."
+    }
+  ],
+  "incidents": [
+    {
+      "id": "INC-00001",
+      "type": "Restricted Zone Entry",
+      "droneId": "DRN-00055",
+      "relatedAlertIds": [
+        "ALT-00006"
+      ],
+      "severity": "Critical",
+      "location": "West Coast",
+      "time": "2026-08-13T22:08:39.847Z",
+      "status": "Resolved",
+      "description": "Sono vis depromo apto sub paens vitae minus urbs natus. Spectaculum defetiscor condico artificiose somniculosus laboriosam antiquus bonus conculco vetus.",
+      "assignedTo": "DICON Analyst — T. Nakamura",
+      "timeline": [
+        {
+          "time": "2026-08-13T22:08:39.847Z",
+          "event": "Alert triggered",
+          "actor": "System"
+        },
+        {
+          "time": "2026-08-28T22:32:13.039Z",
+          "event": "Incident created",
+          "actor": "DICON Command Operator"
+        }
+      ]
+    },
+    {
+      "id": "INC-00002",
+      "type": "Authorization Mismatch",
+      "droneId": "DRN-00043",
+      "relatedAlertIds": [
+        "ALT-00022"
+      ],
+      "severity": "High",
+      "location": "Southeast",
+      "time": "2026-08-23T21:07:09.262Z",
+      "status": "Closed",
+      "description": "Cuppedia angelus verus cunabula molestiae contego triduana vero utor. Turpis conscendo minus delectatio summisse thesis cohors artificiose aptus circumvenio.",
+      "assignedTo": "Unassigned",
+      "timeline": [
+        {
+          "time": "2026-08-23T21:07:09.262Z",
+          "event": "Alert triggered",
+          "actor": "System"
+        },
+        {
+          "time": "2026-09-10T00:33:07.289Z",
+          "event": "Incident created",
+          "actor": "DICON Command Operator"
+        }
+      ]
+    },
+    {
+      "id": "INC-00003",
+      "type": "Authorization Mismatch",
+      "droneId": "DRN-00055",
+      "relatedAlertIds": [
+        "ALT-00008"
+      ],
+      "severity": "Critical",
+      "location": "Midwest",
+      "time": "2026-08-14T17:09:53.495Z",
+      "status": "Investigating",
+      "description": "Pariatur crux suasoria ulciscor desidero maiores tolero turba. Beatus degusto deleniti vito alienus.",
+      "assignedTo": "Unassigned",
+      "timeline": [
+        {
+          "time": "2026-08-14T17:09:53.495Z",
+          "event": "Alert triggered",
+          "actor": "System"
+        },
+        {
+          "time": "2026-08-21T15:38:49.898Z",
+          "event": "Incident created",
+          "actor": "DICON Command Operator"
+        }
+      ]
+    },
+    {
+      "id": "INC-00004",
+      "type": "Authorization Mismatch",
+      "droneId": "DRN-00043",
+      "relatedAlertIds": [
+        "ALT-00009"
+      ],
+      "severity": "Critical",
+      "location": "Southeast",
+      "time": "2026-08-14T23:15:59.168Z",
+      "status": "Open",
+      "description": "Civitas iure beneficium bis denego creo ceno. Arguo sophismata necessitatibus socius officia officia.",
+      "assignedTo": "DICON Analyst — J. Reyes",
+      "timeline": [
+        {
+          "time": "2026-08-14T23:15:59.168Z",
+          "event": "Alert triggered",
+          "actor": "System"
+        },
+        {
+          "time": "2026-09-09T20:06:22.501Z",
+          "event": "Incident created",
+          "actor": "DICON Command Operator"
+        }
+      ]
+    },
+    {
+      "id": "INC-00005",
+      "type": "Authorization Mismatch",
+      "droneId": "DRN-00064",
+      "relatedAlertIds": [
+        "ALT-00007"
+      ],
+      "severity": "High",
+      "location": "Midwest",
+      "time": "2026-09-09T14:42:33.405Z",
+      "status": "Investigating",
+      "description": "Suasoria cursus bardus asper vicissitudo. Derelinquo repudiandae virgo vester aliquam.",
+      "assignedTo": "Unassigned",
+      "timeline": [
+        {
+          "time": "2026-09-09T14:42:33.405Z",
+          "event": "Alert triggered",
+          "actor": "System"
+        },
+        {
+          "time": "2026-09-02T13:12:32.120Z",
+          "event": "Incident created",
+          "actor": "DICON Command Operator"
+        }
+      ]
+    },
+    {
+      "id": "INC-00006",
+      "type": "Telemetry Anomaly",
+      "droneId": "DRN-00056",
+      "relatedAlertIds": [
+        "ALT-00018"
+      ],
+      "severity": "Critical",
+      "location": "Southwest",
+      "time": "2026-08-28T23:37:53.091Z",
+      "status": "Investigating",
+      "description": "Viriliter sequi agnosco crinis valetudo desipio coma. Molestiae bellicus defluo confero cupio tener.",
+      "assignedTo": "Unassigned",
+      "timeline": [
+        {
+          "time": "2026-08-28T23:37:53.091Z",
+          "event": "Alert triggered",
+          "actor": "System"
+        },
+        {
+          "time": "2026-09-08T13:59:16.014Z",
+          "event": "Incident created",
+          "actor": "DICON Command Operator"
+        }
+      ]
+    },
+    {
+      "id": "INC-00007",
+      "type": "Unknown Drone",
+      "droneId": "UNK-1000",
+      "relatedAlertIds": [
+        "ALT-00023"
+      ],
+      "severity": "Low",
+      "location": "Pacific Northwest",
+      "time": "2026-08-22T21:56:25.723Z",
+      "status": "Resolved",
+      "description": "Corona defaeco cervus consectetur arceo auctor numquam coepi amo tenuis. Vinum temeritas curia ulciscor tersus.",
+      "assignedTo": "DICON Analyst — T. Nakamura",
+      "timeline": [
+        {
+          "time": "2026-08-22T21:56:25.723Z",
+          "event": "Alert triggered",
+          "actor": "System"
+        },
+        {
+          "time": "2026-09-11T21:28:49.373Z",
+          "event": "Incident created",
+          "actor": "DICON Command Operator"
+        }
+      ]
+    },
+    {
+      "id": "INC-00008",
+      "type": "Identity Not Resolved",
+      "droneId": "DRN-00024",
+      "relatedAlertIds": [
+        "ALT-00014"
+      ],
+      "severity": "Medium",
+      "location": "Pacific Northwest",
+      "time": "2026-09-01T17:46:19.096Z",
+      "status": "Open",
+      "description": "Nemo argentum cattus bellum dolores voco caritas corrumpo deorsum adeptio. Utpote aperio ultio repellat cruciamentum apparatus nesciunt deserunt soleo voluptatum.",
+      "assignedTo": "Unassigned",
+      "timeline": [
+        {
+          "time": "2026-09-01T17:46:19.096Z",
+          "event": "Alert triggered",
+          "actor": "System"
+        },
+        {
+          "time": "2026-08-19T12:21:58.321Z",
+          "event": "Incident created",
+          "actor": "DICON Command Operator"
+        }
+      ]
+    },
+    {
+      "id": "INC-00009",
+      "type": "Restricted Zone Entry",
+      "droneId": "DRN-00091",
+      "relatedAlertIds": [
+        "ALT-00012"
+      ],
+      "severity": "High",
+      "location": "Midwest",
+      "time": "2026-09-05T17:27:45.133Z",
+      "status": "Closed",
+      "description": "Iure spes antiquus curso odit altus patruus sustineo. Curso fugit doloribus spectaculum magni consectetur.",
+      "assignedTo": "DICON Analyst — T. Nakamura",
+      "timeline": [
+        {
+          "time": "2026-09-05T17:27:45.133Z",
+          "event": "Alert triggered",
+          "actor": "System"
+        },
+        {
+          "time": "2026-08-26T18:53:03.586Z",
+          "event": "Incident created",
+          "actor": "DICON Command Operator"
+        }
+      ]
+    }
+  ],
+  "dataSources": [
+    {
+      "id": "SRC-01",
+      "name": "MITDrone Marketplace",
+      "type": "Commercial Record"
+    },
+    {
+      "id": "SRC-02",
+      "name": "Vendor Documentation Upload",
+      "type": "Regulatory Record (Demonstration)"
+    },
+    {
+      "id": "SRC-03",
+      "name": "Simulated Sensor Network",
+      "type": "Detection Record (Simulated)"
+    }
+  ],
+  "drones": [
+    {
+      "id": "DRN-00001",
+      "manufacturer": "Northwing Systems",
+      "model": "Northwing Scout",
+      "serialNumber": "NY0JVCYRPRJ6",
+      "ownerName": "Eulalia Terry",
+      "ownerOrg": "Hand Group",
+      "operatorName": "Eulalia Terry",
+      "declaredPurpose": "Security",
+      "status": "Under Review",
+      "registrationState": "Registered",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00002",
+        "vendorName": "Haley Group"
+      }
+    },
+    {
+      "id": "DRN-00002",
+      "manufacturer": "Aerovance",
+      "model": "Aerovance S7",
+      "serialNumber": "PW3WX5U8NHT0",
+      "ownerName": "Eulalia Terry",
+      "ownerOrg": "Hand Group",
+      "operatorName": "Shanny Paucek MD",
+      "declaredPurpose": "Agriculture",
+      "status": "Active",
+      "registrationState": "Registered",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00005",
+        "vendorName": "Thiel - Corkery UAS"
+      }
+    },
+    {
+      "id": "DRN-00003",
+      "manufacturer": "Solace Air",
+      "model": "Solace Glide",
+      "serialNumber": "U5G2QQDEIQXW",
+      "ownerName": "Jett Nitzsche",
+      "ownerOrg": "Skiles, Schneider and Thiel",
+      "operatorName": "Reggie Adams I",
+      "declaredPurpose": "Inspection",
+      "status": "Active",
+      "registrationState": "Not Required",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00006",
+        "vendorName": "Hegmann - Christiansen"
+      }
+    },
+    {
+      "id": "DRN-00004",
+      "manufacturer": "Aerovance",
+      "model": "Aerovance S7",
+      "serialNumber": "EP06R2FRULOZ",
+      "ownerName": "Ms. Nikki Oberbrunner",
+      "ownerOrg": "Ledner - Rowe-Johnston",
+      "operatorName": "Art Stark",
+      "declaredPurpose": "Recreation",
+      "status": "Grounded",
+      "registrationState": "Registered",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00008",
+        "vendorName": "Willms, Jerde and Kerluke"
+      }
+    },
+    {
+      "id": "DRN-00005",
+      "manufacturer": "Solace Air",
+      "model": "Solace Glide",
+      "serialNumber": "LOWXNI2WMFKU",
+      "ownerName": "Darrion Bartoletti",
+      "ownerOrg": "Kuvalis LLC",
+      "operatorName": "Mr. Teagan Kuhic",
+      "declaredPurpose": "Security",
+      "status": "Active",
+      "registrationState": "Pending Registration",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00013",
+        "vendorName": "Hegmann - Christiansen"
+      }
+    },
+    {
+      "id": "DRN-00006",
+      "manufacturer": "Aerovance",
+      "model": "Falcon-X2",
+      "serialNumber": "4F4P4IICC1GM",
+      "ownerName": "Jaylin Torphy",
+      "ownerOrg": "Green, O'Reilly and Reichel-Beatty",
+      "operatorName": "Carroll Dicki",
+      "declaredPurpose": "Survey / Mapping",
+      "status": "Under Review",
+      "registrationState": "Registered",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00016",
+        "vendorName": "Mayer-Mitchell, Sawayn and Murphy"
+      }
+    },
+    {
+      "id": "DRN-00007",
+      "manufacturer": "Aerovance",
+      "model": "Falcon-X2",
+      "serialNumber": "2GTMTGQSRF14",
+      "ownerName": "Kylee Crona",
+      "ownerOrg": "Trantow, Marvin and Bosco",
+      "operatorName": "Leonora Mante-Cummerata",
+      "declaredPurpose": "Education",
+      "status": "Active",
+      "registrationState": "Not Required",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00017",
+        "vendorName": "Mayer-Mitchell, Sawayn and Murphy"
+      }
+    },
+    {
+      "id": "DRN-00008",
+      "manufacturer": "Kestrel Robotics",
+      "model": "Kestrel Recon",
+      "serialNumber": "RERMPIDK52XG",
+      "ownerName": "Reta Thiel-Stokes",
+      "ownerOrg": "Rice and Sons",
+      "operatorName": "Reta Thiel-Stokes",
+      "declaredPurpose": "Recreation",
+      "status": "Grounded",
+      "registrationState": "Pending Registration",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00018",
+        "vendorName": "Ziemann-Dooley - Barton"
+      }
+    },
+    {
+      "id": "DRN-00009",
+      "manufacturer": "Meridian Flight Co.",
+      "model": "Meridian Compact",
+      "serialNumber": "TNPELEQDC0OR",
+      "ownerName": "Carmen Corwin",
+      "ownerOrg": "Langworth and Sons",
+      "operatorName": "Carmen Corwin",
+      "declaredPurpose": "Photography",
+      "status": "Active",
+      "registrationState": "Pending Registration",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00019",
+        "vendorName": "Hermann, Bergnaum and Stanton"
+      }
+    },
+    {
+      "id": "DRN-00010",
+      "manufacturer": "Aerovance",
+      "model": "Aerovance S7",
+      "serialNumber": "J4SIJMT0LLBK",
+      "ownerName": "Casimer Heaney",
+      "ownerOrg": "Steuber - Moore",
+      "operatorName": "Casimer Heaney",
+      "declaredPurpose": "Security",
+      "status": "Active",
+      "registrationState": "Pending Registration",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00024",
+        "vendorName": "Willms, Jerde and Kerluke"
+      }
+    },
+    {
+      "id": "DRN-00011",
+      "manufacturer": "Northwing Systems",
+      "model": "Northwing Scout",
+      "serialNumber": "TFF1KKA7OTRR",
+      "ownerName": "Harvey Wintheiser",
+      "ownerOrg": "Blick-Crooks, Raynor and Zulauf-Kautzer",
+      "operatorName": "Harvey Wintheiser",
+      "declaredPurpose": "Security",
+      "status": "Active",
+      "registrationState": "Pending Registration",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00028",
+        "vendorName": "Haley Group"
+      }
+    },
+    {
+      "id": "DRN-00012",
+      "manufacturer": "Aerovance",
+      "model": "Aerovance S7",
+      "serialNumber": "KONP3TWQJ8IZ",
+      "ownerName": "Jamil Abbott",
+      "ownerOrg": "Graham, Cummings and Ortiz",
+      "operatorName": "Jamil Abbott",
+      "declaredPurpose": "Infrastructure",
+      "status": "Grounded",
+      "registrationState": "Not Required",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00029",
+        "vendorName": "Willms, Jerde and Kerluke"
+      }
+    },
+    {
+      "id": "DRN-00013",
+      "manufacturer": "Aerovance",
+      "model": "Aerovance S7",
+      "serialNumber": "J3LRW3Q4R42R",
+      "ownerName": "Diamond Towne",
+      "ownerOrg": null,
+      "operatorName": "Francesco Mayer",
+      "declaredPurpose": "Film / Media",
+      "status": "Active",
+      "registrationState": "Pending Registration",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00031",
+        "vendorName": "Willms, Jerde and Kerluke"
+      }
+    },
+    {
+      "id": "DRN-00014",
+      "manufacturer": "Kestrel Robotics",
+      "model": "Kestrel V4",
+      "serialNumber": "YGTGL7ERQE3B",
+      "ownerName": "Ethelyn Gottlieb",
+      "ownerOrg": "Greenholt Inc",
+      "operatorName": "Niko Crooks",
+      "declaredPurpose": "Other",
+      "status": "Active",
+      "registrationState": "Not Required",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00033",
+        "vendorName": "Crona - Russel"
+      }
+    },
+    {
+      "id": "DRN-00015",
+      "manufacturer": "Aerovance",
+      "model": "Aerovance S7",
+      "serialNumber": "37S7X3KILXUI",
+      "ownerName": "Amir Hauck",
+      "ownerOrg": "Schultz - Walker",
+      "operatorName": "Amir Hauck",
+      "declaredPurpose": "Photography",
+      "status": "Under Review",
+      "registrationState": "Pending Registration",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00036",
+        "vendorName": "Thiel - Corkery UAS"
+      }
+    },
+    {
+      "id": "DRN-00016",
+      "manufacturer": "Talon Dynamics",
+      "model": "Talon MK2",
+      "serialNumber": "ASU2ML4MJC05",
+      "ownerName": "Harvey Wintheiser",
+      "ownerOrg": "Blick-Crooks, Raynor and Zulauf-Kautzer",
+      "operatorName": "Hilario O'Conner",
+      "declaredPurpose": "Inspection",
+      "status": "Active",
+      "registrationState": "Registered",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00038",
+        "vendorName": "Hegmann - Christiansen"
+      }
+    },
+    {
+      "id": "DRN-00017",
+      "manufacturer": "Northwing Systems",
+      "model": "Northwing Scout",
+      "serialNumber": "KW36FUJ3MBOQ",
+      "ownerName": "Caesar Swaniawski",
+      "ownerOrg": "Haag, Anderson and Kling",
+      "operatorName": "Kelly Rogahn",
+      "declaredPurpose": "Agriculture",
+      "status": "Under Review",
+      "registrationState": "Not Required",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00040",
+        "vendorName": "Haley Group"
+      }
+    },
+    {
+      "id": "DRN-00018",
+      "manufacturer": "Kestrel Robotics",
+      "model": "Kestrel Recon",
+      "serialNumber": "X7XTK02D3ZU6",
+      "ownerName": "Gladyce Herman",
+      "ownerOrg": "Dare and Sons",
+      "operatorName": "Gladyce Herman",
+      "declaredPurpose": "Recreation",
+      "status": "Grounded",
+      "registrationState": "Not Required",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00041",
+        "vendorName": "Ziemann-Dooley - Barton"
+      }
+    },
+    {
+      "id": "DRN-00019",
+      "manufacturer": "Kestrel Robotics",
+      "model": "Kestrel Recon",
+      "serialNumber": "RFLXWXXCAHCS",
+      "ownerName": "Ford Kuphal-Cruickshank",
+      "ownerOrg": "Rodriguez, Hartmann and Wolff",
+      "operatorName": "Mr. Mose DuBuque",
+      "declaredPurpose": "Other",
+      "status": "Active",
+      "registrationState": "Not Required",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00042",
+        "vendorName": "Ziemann-Dooley - Barton"
+      }
+    },
+    {
+      "id": "DRN-00020",
+      "manufacturer": "Kestrel Robotics",
+      "model": "Kestrel V4",
+      "serialNumber": "ISXHYZN24GFJ",
+      "ownerName": "Eli McCullough",
+      "ownerOrg": "Cruickshank - Schuppe",
+      "operatorName": "Eli McCullough",
+      "declaredPurpose": "Recreation",
+      "status": "Under Review",
+      "registrationState": "Registered",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00044",
+        "vendorName": "Crona - Russel"
+      }
+    },
+    {
+      "id": "DRN-00021",
+      "manufacturer": "Kestrel Robotics",
+      "model": "Kestrel V4",
+      "serialNumber": "GI6QH5TUWZDP",
+      "ownerName": "Eulalia Terry",
+      "ownerOrg": "Hand Group",
+      "operatorName": "Furman Gerhold",
+      "declaredPurpose": "Security",
+      "status": "Under Review",
+      "registrationState": "Pending Registration",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00048",
+        "vendorName": "Crona - Russel"
+      }
+    },
+    {
+      "id": "DRN-00022",
+      "manufacturer": "Talon Dynamics",
+      "model": "Talon MK2",
+      "serialNumber": "PJOGK33ISUPQ",
+      "ownerName": "Mathias Bednar",
+      "ownerOrg": null,
+      "operatorName": "Mathias Bednar",
+      "declaredPurpose": "Other",
+      "status": "Under Review",
+      "registrationState": "Pending Registration",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00049",
+        "vendorName": "Hegmann - Christiansen"
+      }
+    },
+    {
+      "id": "DRN-00023",
+      "manufacturer": "Solace Air",
+      "model": "Solace Glide",
+      "serialNumber": "SUT4OZAXBO8F",
+      "ownerName": "Ford Kuphal-Cruickshank",
+      "ownerOrg": "Rodriguez, Hartmann and Wolff",
+      "operatorName": "Justice Shields",
+      "declaredPurpose": "Emergency Response",
+      "status": "Active",
+      "registrationState": "Pending Registration",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00051",
+        "vendorName": "Hegmann - Christiansen"
+      }
+    },
+    {
+      "id": "DRN-00024",
+      "manufacturer": "Kestrel Robotics",
+      "model": "Kestrel Recon",
+      "serialNumber": "Z1QCTUODZJ63",
+      "ownerName": "Cristobal Will",
+      "ownerOrg": "Lueilwitz - Ratke",
+      "operatorName": "Cristobal Will",
+      "declaredPurpose": "Infrastructure",
+      "status": "Active",
+      "registrationState": "Registered",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00052",
+        "vendorName": "Ziemann-Dooley - Barton"
+      }
+    },
+    {
+      "id": "DRN-00025",
+      "manufacturer": "Aerovance",
+      "model": "Aerovance S7",
+      "serialNumber": "O8GSBM71Y2V5",
+      "ownerName": "Dr. David Ernser I",
+      "ownerOrg": "Schmitt Group",
+      "operatorName": "Dr. David Ernser I",
+      "declaredPurpose": "Inspection",
+      "status": "Under Review",
+      "registrationState": "Not Required",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00053",
+        "vendorName": "Thiel - Corkery UAS"
+      }
+    },
+    {
+      "id": "DRN-00026",
+      "manufacturer": "Aerovance",
+      "model": "Falcon-X2",
+      "serialNumber": "3U1YXXO18F6N",
+      "ownerName": "Abe Kunze V",
+      "ownerOrg": "Ratke - Schiller",
+      "operatorName": "Abe Kunze V",
+      "declaredPurpose": "Infrastructure",
+      "status": "Active",
+      "registrationState": "Pending Registration",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00054",
+        "vendorName": "Mayer-Mitchell, Sawayn and Murphy"
+      }
+    },
+    {
+      "id": "DRN-00027",
+      "manufacturer": "Aerovance",
+      "model": "Aerovance S7",
+      "serialNumber": "I7IVN7H21TIZ",
+      "ownerName": "Hyman Gottlieb-Mueller",
+      "ownerOrg": "Simonis and Sons",
+      "operatorName": "Axel Sanford DDS",
+      "declaredPurpose": "Infrastructure",
+      "status": "Grounded",
+      "registrationState": "Not Required",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00055",
+        "vendorName": "Willms, Jerde and Kerluke"
+      }
+    },
+    {
+      "id": "DRN-00028",
+      "manufacturer": "Talon Dynamics",
+      "model": "Talon MK2",
+      "serialNumber": "TY07DTTJE8J2",
+      "ownerName": "Eli McCullough",
+      "ownerOrg": "Cruickshank - Schuppe",
+      "operatorName": "Eli McCullough",
+      "declaredPurpose": "Survey / Mapping",
+      "status": "Active",
+      "registrationState": "Not Required",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00056",
+        "vendorName": "Hegmann - Christiansen"
+      }
+    },
+    {
+      "id": "DRN-00029",
+      "manufacturer": "Aerovance",
+      "model": "Aerovance S7",
+      "serialNumber": "38I07RIU0BVP",
+      "ownerName": "Hyman Gottlieb-Mueller",
+      "ownerOrg": "Simonis and Sons",
+      "operatorName": "Cali Miller",
+      "declaredPurpose": "Infrastructure",
+      "status": "Active",
+      "registrationState": "Pending Registration",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00057",
+        "vendorName": "Willms, Jerde and Kerluke"
+      }
+    },
+    {
+      "id": "DRN-00030",
+      "manufacturer": "Meridian Flight Co.",
+      "model": "Meridian Compact",
+      "serialNumber": "MQB3EDHUBQ9T",
+      "ownerName": "Ford Kuphal-Cruickshank",
+      "ownerOrg": "Rodriguez, Hartmann and Wolff",
+      "operatorName": "Ford Kuphal-Cruickshank",
+      "declaredPurpose": "Security",
+      "status": "Active",
+      "registrationState": "Pending Registration",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00059",
+        "vendorName": "Hermann, Bergnaum and Stanton"
+      }
+    },
+    {
+      "id": "DRN-00031",
+      "manufacturer": "Aerovance",
+      "model": "Aerovance S7",
+      "serialNumber": "DA5CZVIO8L01",
+      "ownerName": "Sydnee Hills-Okuneva",
+      "ownerOrg": null,
+      "operatorName": "Sydnee Hills-Okuneva",
+      "declaredPurpose": "Infrastructure",
+      "status": "Active",
+      "registrationState": "Not Required",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00060",
+        "vendorName": "Willms, Jerde and Kerluke"
+      }
+    },
+    {
+      "id": "DRN-00032",
+      "manufacturer": "Aerovance",
+      "model": "Aerovance S7",
+      "serialNumber": "NBDIQ6I0YLJM",
+      "ownerName": "Moses Grady IV",
+      "ownerOrg": "Walsh LLC",
+      "operatorName": "Moses Grady IV",
+      "declaredPurpose": "Other",
+      "status": "Grounded",
+      "registrationState": "Not Required",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00062",
+        "vendorName": "Willms, Jerde and Kerluke"
+      }
+    },
+    {
+      "id": "DRN-00033",
+      "manufacturer": "Northwing Systems",
+      "model": "Northwing Scout",
+      "serialNumber": "94DMPLMCMFMJ",
+      "ownerName": "Sheridan Bins",
+      "ownerOrg": "Crona Inc",
+      "operatorName": "Sheridan Bins",
+      "declaredPurpose": "Agriculture",
+      "status": "Active",
+      "registrationState": "Not Required",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00063",
+        "vendorName": "Haley Group"
+      }
+    },
+    {
+      "id": "DRN-00034",
+      "manufacturer": "Kestrel Robotics",
+      "model": "Kestrel Recon",
+      "serialNumber": "6P14C3EMB5K6",
+      "ownerName": "Eulalia Terry",
+      "ownerOrg": "Hand Group",
+      "operatorName": "Eulalia Terry",
+      "declaredPurpose": "Infrastructure",
+      "status": "Active",
+      "registrationState": "Pending Registration",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00065",
+        "vendorName": "Ziemann-Dooley - Barton"
+      }
+    },
+    {
+      "id": "DRN-00035",
+      "manufacturer": "Solace Air",
+      "model": "Solace Glide",
+      "serialNumber": "4HENDNKQ81E6",
+      "ownerName": "Gladyce Herman",
+      "ownerOrg": "Dare and Sons",
+      "operatorName": "Judge Lubowitz",
+      "declaredPurpose": "Recreation",
+      "status": "Active",
+      "registrationState": "Not Required",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00070",
+        "vendorName": "Hegmann - Christiansen"
+      }
+    },
+    {
+      "id": "DRN-00036",
+      "manufacturer": "Aerovance",
+      "model": "Aerovance S7",
+      "serialNumber": "3YDELKERG5AC",
+      "ownerName": "Carmen Corwin",
+      "ownerOrg": "Langworth and Sons",
+      "operatorName": "Kenya Price",
+      "declaredPurpose": "Other",
+      "status": "Active",
+      "registrationState": "Pending Registration",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00076",
+        "vendorName": "Willms, Jerde and Kerluke"
+      }
+    },
+    {
+      "id": "DRN-00037",
+      "manufacturer": "Aerovance",
+      "model": "Aerovance S7",
+      "serialNumber": "PI5X965H86ZS",
+      "ownerName": "Reta Thiel-Stokes",
+      "ownerOrg": "Rice and Sons",
+      "operatorName": "Reta Thiel-Stokes",
+      "declaredPurpose": "Inspection",
+      "status": "Grounded",
+      "registrationState": "Not Required",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00085",
+        "vendorName": "Thiel - Corkery UAS"
+      }
+    },
+    {
+      "id": "DRN-00038",
+      "manufacturer": "Northwing Systems",
+      "model": "Northwing Scout",
+      "serialNumber": "D80AF5VQNQWY",
+      "ownerName": "Bo Lubowitz",
+      "ownerOrg": "Adams - Simonis",
+      "operatorName": "Bo Lubowitz",
+      "declaredPurpose": "Agriculture",
+      "status": "Active",
+      "registrationState": "Pending Registration",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00088",
+        "vendorName": "Haley Group"
+      }
+    },
+    {
+      "id": "DRN-00039",
+      "manufacturer": "Aerovance",
+      "model": "Aerovance S7",
+      "serialNumber": "IOY7537SPFD5",
+      "ownerName": "Jamil Abbott",
+      "ownerOrg": "Graham, Cummings and Ortiz",
+      "operatorName": "Halie Hilll I",
+      "declaredPurpose": "Film / Media",
+      "status": "Active",
+      "registrationState": "Pending Registration",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00090",
+        "vendorName": "Willms, Jerde and Kerluke"
+      }
+    },
+    {
+      "id": "DRN-00040",
+      "manufacturer": "Kestrel Robotics",
+      "model": "Kestrel V4",
+      "serialNumber": "2V0ZUASXCAIC",
+      "ownerName": "Dr. Ronald Ritchie",
+      "ownerOrg": "Lueilwitz, McLaughlin and Lemke",
+      "operatorName": "Dr. Ronald Ritchie",
+      "declaredPurpose": "Survey / Mapping",
+      "status": "Grounded",
+      "registrationState": "Pending Registration",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00092",
+        "vendorName": "Crona - Russel"
+      }
+    },
+    {
+      "id": "DRN-00041",
+      "manufacturer": "Solace Air",
+      "model": "Solace Glide",
+      "serialNumber": "ED1A72QB0WIE",
+      "ownerName": "Dr. Kurtis Kutch IV",
+      "ownerOrg": "Johns - Treutel",
+      "operatorName": "Sheila Braun",
+      "declaredPurpose": "Photography",
+      "status": "Active",
+      "registrationState": "Pending Registration",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00095",
+        "vendorName": "Hegmann - Christiansen"
+      }
+    },
+    {
+      "id": "DRN-00042",
+      "manufacturer": "Aerovance",
+      "model": "Falcon-X2",
+      "serialNumber": "EE6ZOBXT2JHS",
+      "ownerName": "Jett Nitzsche",
+      "ownerOrg": "Skiles, Schneider and Thiel",
+      "operatorName": "Michel Crona PhD",
+      "declaredPurpose": "Other",
+      "status": "Under Review",
+      "registrationState": "Not Required",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00096",
+        "vendorName": "Mayer-Mitchell, Sawayn and Murphy"
+      }
+    },
+    {
+      "id": "DRN-00043",
+      "manufacturer": "Meridian Flight Co.",
+      "model": "Meridian Compact",
+      "serialNumber": "B6ALTDYA3GMH",
+      "ownerName": "Amir Hauck",
+      "ownerOrg": "Schultz - Walker",
+      "operatorName": "Shanelle Maggio",
+      "declaredPurpose": "Education",
+      "status": "Grounded",
+      "registrationState": "Not Required",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00097",
+        "vendorName": "Hermann, Bergnaum and Stanton"
+      }
+    },
+    {
+      "id": "DRN-00044",
+      "manufacturer": "Northwing Systems",
+      "model": "Northwing Scout",
+      "serialNumber": "5ZYYT9HG9GXG",
+      "ownerName": "Reta Thiel-Stokes",
+      "ownerOrg": "Rice and Sons",
+      "operatorName": "Reta Thiel-Stokes",
+      "declaredPurpose": "Education",
+      "status": "Grounded",
+      "registrationState": "Pending Registration",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00098",
+        "vendorName": "Haley Group"
+      }
+    },
+    {
+      "id": "DRN-00045",
+      "manufacturer": "Talon Dynamics",
+      "model": "Talon MK2",
+      "serialNumber": "YDURNUFJV5GD",
+      "ownerName": "Eulalia Terry",
+      "ownerOrg": "Hand Group",
+      "operatorName": "Oma Crooks",
+      "declaredPurpose": "Film / Media",
+      "status": "Grounded",
+      "registrationState": "Registered",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00099",
+        "vendorName": "Hegmann - Christiansen"
+      }
+    },
+    {
+      "id": "DRN-00046",
+      "manufacturer": "Northwing Systems",
+      "model": "Northwing Scout",
+      "serialNumber": "SXEMH7V8ZIWA",
+      "ownerName": "Kylee Crona",
+      "ownerOrg": "Trantow, Marvin and Bosco",
+      "operatorName": "Domenic O'Hara",
+      "declaredPurpose": "Agriculture",
+      "status": "Under Review",
+      "registrationState": "Pending Registration",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00100",
+        "vendorName": "Haley Group"
+      }
+    },
+    {
+      "id": "DRN-00047",
+      "manufacturer": "Aerovance",
+      "model": "Aerovance S7",
+      "serialNumber": "BMOO87FJBWPG",
+      "ownerName": "Mr. Bobby Hegmann",
+      "ownerOrg": "Walter Inc",
+      "operatorName": "Mr. Bobby Hegmann",
+      "declaredPurpose": "Recreation",
+      "status": "Active",
+      "registrationState": "Not Required",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00102",
+        "vendorName": "Willms, Jerde and Kerluke"
+      }
+    },
+    {
+      "id": "DRN-00048",
+      "manufacturer": "Talon Dynamics",
+      "model": "Talon MK2",
+      "serialNumber": "6E6VYTWVWR0E",
+      "ownerName": "Sydnee Hills-Okuneva",
+      "ownerOrg": null,
+      "operatorName": "Walton Rau",
+      "declaredPurpose": "Agriculture",
+      "status": "Under Review",
+      "registrationState": "Pending Registration",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00106",
+        "vendorName": "Hegmann - Christiansen"
+      }
+    },
+    {
+      "id": "DRN-00049",
+      "manufacturer": "Kestrel Robotics",
+      "model": "Kestrel V4",
+      "serialNumber": "JJJO3DBVXHQ0",
+      "ownerName": "Tyshawn Bruen",
+      "ownerOrg": "Gislason, Murazik and Murray",
+      "operatorName": "Tyshawn Bruen",
+      "declaredPurpose": "Infrastructure",
+      "status": "Active",
+      "registrationState": "Pending Registration",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00107",
+        "vendorName": "Crona - Russel"
+      }
+    },
+    {
+      "id": "DRN-00050",
+      "manufacturer": "Aerovance",
+      "model": "Falcon-X2",
+      "serialNumber": "QH0EWN442E6Y",
+      "ownerName": "Tressie Tremblay",
+      "ownerOrg": null,
+      "operatorName": "Sammy Jones",
+      "declaredPurpose": "Emergency Response",
+      "status": "Under Review",
+      "registrationState": "Registered",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00108",
+        "vendorName": "Mayer-Mitchell, Sawayn and Murphy"
+      }
+    },
+    {
+      "id": "DRN-00051",
+      "manufacturer": "Solace Air",
+      "model": "Solace Glide",
+      "serialNumber": "1QY1T192MIJP",
+      "ownerName": "Ford Kuphal-Cruickshank",
+      "ownerOrg": "Rodriguez, Hartmann and Wolff",
+      "operatorName": "Ford Kuphal-Cruickshank",
+      "declaredPurpose": "Agriculture",
+      "status": "Active",
+      "registrationState": "Pending Registration",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00109",
+        "vendorName": "Hegmann - Christiansen"
+      }
+    },
+    {
+      "id": "DRN-00052",
+      "manufacturer": "Aerovance",
+      "model": "Aerovance S7",
+      "serialNumber": "Q51ULCN7WQ5B",
+      "ownerName": "Hyman Gottlieb-Mueller",
+      "ownerOrg": "Simonis and Sons",
+      "operatorName": "Hyman Gottlieb-Mueller",
+      "declaredPurpose": "Inspection",
+      "status": "Active",
+      "registrationState": "Not Required",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00110",
+        "vendorName": "Willms, Jerde and Kerluke"
+      }
+    },
+    {
+      "id": "DRN-00053",
+      "manufacturer": "Meridian Flight Co.",
+      "model": "Meridian Compact",
+      "serialNumber": "O1YF8UV677JO",
+      "ownerName": "Ethelyn Gottlieb",
+      "ownerOrg": "Greenholt Inc",
+      "operatorName": "Ethelyn Gottlieb",
+      "declaredPurpose": "Other",
+      "status": "Grounded",
+      "registrationState": "Registered",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00111",
+        "vendorName": "Hermann, Bergnaum and Stanton"
+      }
+    },
+    {
+      "id": "DRN-00054",
+      "manufacturer": "Northwing Systems",
+      "model": "Northwing Scout",
+      "serialNumber": "3TFDNW768PMV",
+      "ownerName": "Johann Hilll",
+      "ownerOrg": "Mayer LLC",
+      "operatorName": "Johann Hilll",
+      "declaredPurpose": "Inspection",
+      "status": "Active",
+      "registrationState": "Registered",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00115",
+        "vendorName": "Haley Group"
+      }
+    },
+    {
+      "id": "DRN-00055",
+      "manufacturer": "Northwing Systems",
+      "model": "Northwing Scout",
+      "serialNumber": "G3W9AQ3TX1S9",
+      "ownerName": "Sister Beatty II",
+      "ownerOrg": "Schulist - Towne",
+      "operatorName": "Dr. Jayden Langworth",
+      "declaredPurpose": "Emergency Response",
+      "status": "Under Review",
+      "registrationState": "Not Required",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00118",
+        "vendorName": "Haley Group"
+      }
+    },
+    {
+      "id": "DRN-00056",
+      "manufacturer": "Talon Dynamics",
+      "model": "Talon MK2",
+      "serialNumber": "URFDEP7A03PN",
+      "ownerName": "Isaias Little",
+      "ownerOrg": "Glover, Botsford and Emmerich",
+      "operatorName": "Isaias Little",
+      "declaredPurpose": "Infrastructure",
+      "status": "Active",
+      "registrationState": "Not Required",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00122",
+        "vendorName": "Hegmann - Christiansen"
+      }
+    },
+    {
+      "id": "DRN-00057",
+      "manufacturer": "Solace Air",
+      "model": "Solace Glide",
+      "serialNumber": "NZ77YIZ7E3KS",
+      "ownerName": "Tyshawn Bruen",
+      "ownerOrg": "Gislason, Murazik and Murray",
+      "operatorName": "Miss Megane Konopelski",
+      "declaredPurpose": "Infrastructure",
+      "status": "Active",
+      "registrationState": "Pending Registration",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00125",
+        "vendorName": "Hegmann - Christiansen"
+      }
+    },
+    {
+      "id": "DRN-00058",
+      "manufacturer": "Meridian Flight Co.",
+      "model": "Meridian Compact",
+      "serialNumber": "H9Q7PPXJN0ZE",
+      "ownerName": "Gladyce Herman",
+      "ownerOrg": "Dare and Sons",
+      "operatorName": "Gladyce Herman",
+      "declaredPurpose": "Film / Media",
+      "status": "Active",
+      "registrationState": "Not Required",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00127",
+        "vendorName": "Hermann, Bergnaum and Stanton"
+      }
+    },
+    {
+      "id": "DRN-00059",
+      "manufacturer": "Talon Dynamics",
+      "model": "Talon MK2",
+      "serialNumber": "E1FF5X4M5QC5",
+      "ownerName": "Ford Kuphal-Cruickshank",
+      "ownerOrg": "Rodriguez, Hartmann and Wolff",
+      "operatorName": "Ford Kuphal-Cruickshank",
+      "declaredPurpose": "Recreation",
+      "status": "Active",
+      "registrationState": "Pending Registration",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00128",
+        "vendorName": "Hegmann - Christiansen"
+      }
+    },
+    {
+      "id": "DRN-00060",
+      "manufacturer": "Talon Dynamics",
+      "model": "Talon MK2",
+      "serialNumber": "JJ6TO5NZTWUZ",
+      "ownerName": "Dr. Ronald Ritchie",
+      "ownerOrg": "Lueilwitz, McLaughlin and Lemke",
+      "operatorName": "Dr. Ronald Ritchie",
+      "declaredPurpose": "Film / Media",
+      "status": "Active",
+      "registrationState": "Registered",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00129",
+        "vendorName": "Hegmann - Christiansen"
+      }
+    },
+    {
+      "id": "DRN-00061",
+      "manufacturer": "Aerovance",
+      "model": "Falcon-X2",
+      "serialNumber": "QTBUMLSI5AUW",
+      "ownerName": "Cecelia Effertz IV",
+      "ownerOrg": "Daniel - Windler",
+      "operatorName": "Cecelia Effertz IV",
+      "declaredPurpose": "Agriculture",
+      "status": "Active",
+      "registrationState": "Not Required",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00134",
+        "vendorName": "Mayer-Mitchell, Sawayn and Murphy"
+      }
+    },
+    {
+      "id": "DRN-00062",
+      "manufacturer": "Talon Dynamics",
+      "model": "Talon MK2",
+      "serialNumber": "E8KN4AUEKI6H",
+      "ownerName": "Diamond Towne",
+      "ownerOrg": null,
+      "operatorName": "Arturo Bosco",
+      "declaredPurpose": "Agriculture",
+      "status": "Active",
+      "registrationState": "Registered",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00136",
+        "vendorName": "Hegmann - Christiansen"
+      }
+    },
+    {
+      "id": "DRN-00063",
+      "manufacturer": "Aerovance",
+      "model": "Aerovance S7",
+      "serialNumber": "LNCU1YYPNVX0",
+      "ownerName": "Gladyce Herman",
+      "ownerOrg": "Dare and Sons",
+      "operatorName": "Rory Dare",
+      "declaredPurpose": "Emergency Response",
+      "status": "Active",
+      "registrationState": "Registered",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00137",
+        "vendorName": "Willms, Jerde and Kerluke"
+      }
+    },
+    {
+      "id": "DRN-00064",
+      "manufacturer": "Aerovance",
+      "model": "Aerovance S7",
+      "serialNumber": "G4888RME4OC9",
+      "ownerName": "Eli McCullough",
+      "ownerOrg": "Cruickshank - Schuppe",
+      "operatorName": "Syble Feil",
+      "declaredPurpose": "Emergency Response",
+      "status": "Grounded",
+      "registrationState": "Pending Registration",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00139",
+        "vendorName": "Thiel - Corkery UAS"
+      }
+    },
+    {
+      "id": "DRN-00065",
+      "manufacturer": "Aerovance",
+      "model": "Falcon-X2",
+      "serialNumber": "UMT77ICP7B6I",
+      "ownerName": "Dr. Kurtis Kutch IV",
+      "ownerOrg": "Johns - Treutel",
+      "operatorName": "Dr. Kurtis Kutch IV",
+      "declaredPurpose": "Research",
+      "status": "Grounded",
+      "registrationState": "Registered",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00140",
+        "vendorName": "Mayer-Mitchell, Sawayn and Murphy"
+      }
+    },
+    {
+      "id": "DRN-00066",
+      "manufacturer": "Talon Dynamics",
+      "model": "Talon MK2",
+      "serialNumber": "WESHH5P0764F",
+      "ownerName": "Danika Walker",
+      "ownerOrg": "Kovacek and Sons",
+      "operatorName": "Danika Walker",
+      "declaredPurpose": "Emergency Response",
+      "status": "Active",
+      "registrationState": "Pending Registration",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00145",
+        "vendorName": "Hegmann - Christiansen"
+      }
+    },
+    {
+      "id": "DRN-00067",
+      "manufacturer": "Talon Dynamics",
+      "model": "Talon MK2",
+      "serialNumber": "PYXV457EDKOC",
+      "ownerName": "Sonya Harber",
+      "ownerOrg": "Mertz, Feest and Johnston",
+      "operatorName": "Sonya Harber",
+      "declaredPurpose": "Inspection",
+      "status": "Grounded",
+      "registrationState": "Pending Registration",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00148",
+        "vendorName": "Hegmann - Christiansen"
+      }
+    },
+    {
+      "id": "DRN-00068",
+      "manufacturer": "Aerovance",
+      "model": "Aerovance S7",
+      "serialNumber": "MAN1PD10PQTJ",
+      "ownerName": "Ms. Nikki Oberbrunner",
+      "ownerOrg": "Ledner - Rowe-Johnston",
+      "operatorName": "Ms. Nikki Oberbrunner",
+      "declaredPurpose": "Other",
+      "status": "Under Review",
+      "registrationState": "Not Required",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00157",
+        "vendorName": "Thiel - Corkery UAS"
+      }
+    },
+    {
+      "id": "DRN-00069",
+      "manufacturer": "Aerovance",
+      "model": "Falcon-X2",
+      "serialNumber": "AP7MVB8Q934L",
+      "ownerName": "Reta Thiel-Stokes",
+      "ownerOrg": "Rice and Sons",
+      "operatorName": "Joe Reinger Sr.",
+      "declaredPurpose": "Photography",
+      "status": "Active",
+      "registrationState": "Not Required",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00158",
+        "vendorName": "Mayer-Mitchell, Sawayn and Murphy"
+      }
+    },
+    {
+      "id": "DRN-00070",
+      "manufacturer": "Talon Dynamics",
+      "model": "Talon MK2",
+      "serialNumber": "PAFU1Q7HQ36X",
+      "ownerName": "Jamil Abbott",
+      "ownerOrg": "Graham, Cummings and Ortiz",
+      "operatorName": "Jamil Abbott",
+      "declaredPurpose": "Recreation",
+      "status": "Under Review",
+      "registrationState": "Not Required",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00159",
+        "vendorName": "Hegmann - Christiansen"
+      }
+    },
+    {
+      "id": "DRN-00071",
+      "manufacturer": "Kestrel Robotics",
+      "model": "Kestrel Recon",
+      "serialNumber": "GQP6J753RHFX",
+      "ownerName": "Ms. Nikki Oberbrunner",
+      "ownerOrg": "Ledner - Rowe-Johnston",
+      "operatorName": "Ms. Nikki Oberbrunner",
+      "declaredPurpose": "Education",
+      "status": "Active",
+      "registrationState": "Not Required",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00161",
+        "vendorName": "Ziemann-Dooley - Barton"
+      }
+    },
+    {
+      "id": "DRN-00072",
+      "manufacturer": "Kestrel Robotics",
+      "model": "Kestrel Recon",
+      "serialNumber": "KESIFHNSEORZ",
+      "ownerName": "Amir Hauck",
+      "ownerOrg": "Schultz - Walker",
+      "operatorName": "Amir Hauck",
+      "declaredPurpose": "Education",
+      "status": "Active",
+      "registrationState": "Registered",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00162",
+        "vendorName": "Ziemann-Dooley - Barton"
+      }
+    },
+    {
+      "id": "DRN-00073",
+      "manufacturer": "Solace Air",
+      "model": "Solace Glide",
+      "serialNumber": "VOS33KCIOL5P",
+      "ownerName": "Kylee Crona",
+      "ownerOrg": "Trantow, Marvin and Bosco",
+      "operatorName": "Cooper Ullrich",
+      "declaredPurpose": "Film / Media",
+      "status": "Active",
+      "registrationState": "Pending Registration",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00163",
+        "vendorName": "Hegmann - Christiansen"
+      }
+    },
+    {
+      "id": "DRN-00074",
+      "manufacturer": "Solace Air",
+      "model": "Solace Glide",
+      "serialNumber": "RIOKKZO89O1S",
+      "ownerName": "Rosendo Schneider",
+      "ownerOrg": null,
+      "operatorName": "Shawna Miller",
+      "declaredPurpose": "Inspection",
+      "status": "Active",
+      "registrationState": "Not Required",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00167",
+        "vendorName": "Hegmann - Christiansen"
+      }
+    },
+    {
+      "id": "DRN-00075",
+      "manufacturer": "Talon Dynamics",
+      "model": "Talon MK2",
+      "serialNumber": "BDYRB1UC5Q4U",
+      "ownerName": "Jamil Abbott",
+      "ownerOrg": "Graham, Cummings and Ortiz",
+      "operatorName": "Jamil Abbott",
+      "declaredPurpose": "Infrastructure",
+      "status": "Under Review",
+      "registrationState": "Pending Registration",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00169",
+        "vendorName": "Hegmann - Christiansen"
+      }
+    },
+    {
+      "id": "DRN-00076",
+      "manufacturer": "Northwing Systems",
+      "model": "Northwing Scout",
+      "serialNumber": "H8GGD0T82UFU",
+      "ownerName": "Caesar Swaniawski",
+      "ownerOrg": "Haag, Anderson and Kling",
+      "operatorName": "Caesar Swaniawski",
+      "declaredPurpose": "Photography",
+      "status": "Active",
+      "registrationState": "Pending Registration",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00173",
+        "vendorName": "Haley Group"
+      }
+    },
+    {
+      "id": "DRN-00077",
+      "manufacturer": "Meridian Flight Co.",
+      "model": "Meridian Compact",
+      "serialNumber": "4PILN6H8LV4R",
+      "ownerName": "Diamond Towne",
+      "ownerOrg": null,
+      "operatorName": "Diamond Towne",
+      "declaredPurpose": "Film / Media",
+      "status": "Active",
+      "registrationState": "Pending Registration",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00174",
+        "vendorName": "Hermann, Bergnaum and Stanton"
+      }
+    },
+    {
+      "id": "DRN-00078",
+      "manufacturer": "Solace Air",
+      "model": "Solace Glide",
+      "serialNumber": "UHYHK20IJN2K",
+      "ownerName": "Jabari Hilll-Dach",
+      "ownerOrg": "Beier, Leannon and Runte",
+      "operatorName": "Jabari Hilll-Dach",
+      "declaredPurpose": "Education",
+      "status": "Grounded",
+      "registrationState": "Pending Registration",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00176",
+        "vendorName": "Hegmann - Christiansen"
+      }
+    },
+    {
+      "id": "DRN-00079",
+      "manufacturer": "Aerovance",
+      "model": "Aerovance S7",
+      "serialNumber": "FR22VTBRIO0E",
+      "ownerName": "Eli McCullough",
+      "ownerOrg": "Cruickshank - Schuppe",
+      "operatorName": "Eli McCullough",
+      "declaredPurpose": "Emergency Response",
+      "status": "Active",
+      "registrationState": "Pending Registration",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00178",
+        "vendorName": "Thiel - Corkery UAS"
+      }
+    },
+    {
+      "id": "DRN-00080",
+      "manufacturer": "Aerovance",
+      "model": "Aerovance S7",
+      "serialNumber": "YVRMK2ET6END",
+      "ownerName": "Rosendo Schneider",
+      "ownerOrg": null,
+      "operatorName": "Abdiel Douglas",
+      "declaredPurpose": "Other",
+      "status": "Active",
+      "registrationState": "Pending Registration",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00181",
+        "vendorName": "Thiel - Corkery UAS"
+      }
+    },
+    {
+      "id": "DRN-00081",
+      "manufacturer": "Kestrel Robotics",
+      "model": "Kestrel Recon",
+      "serialNumber": "81FP4P6LJ0MY",
+      "ownerName": "Danika Walker",
+      "ownerOrg": "Kovacek and Sons",
+      "operatorName": "Danika Walker",
+      "declaredPurpose": "Infrastructure",
+      "status": "Under Review",
+      "registrationState": "Pending Registration",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00183",
+        "vendorName": "Ziemann-Dooley - Barton"
+      }
+    },
+    {
+      "id": "DRN-00082",
+      "manufacturer": "Kestrel Robotics",
+      "model": "Kestrel V4",
+      "serialNumber": "GKZQIX6Q4UNO",
+      "ownerName": "Jett Nitzsche",
+      "ownerOrg": "Skiles, Schneider and Thiel",
+      "operatorName": "Dovie Mayer",
+      "declaredPurpose": "Education",
+      "status": "Grounded",
+      "registrationState": "Registered",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00184",
+        "vendorName": "Crona - Russel"
+      }
+    },
+    {
+      "id": "DRN-00083",
+      "manufacturer": "Kestrel Robotics",
+      "model": "Kestrel Recon",
+      "serialNumber": "N3TOT9332BYU",
+      "ownerName": "Dr. Kurtis Kutch IV",
+      "ownerOrg": "Johns - Treutel",
+      "operatorName": "Dr. Kurtis Kutch IV",
+      "declaredPurpose": "Survey / Mapping",
+      "status": "Active",
+      "registrationState": "Not Required",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00185",
+        "vendorName": "Ziemann-Dooley - Barton"
+      }
+    },
+    {
+      "id": "DRN-00084",
+      "manufacturer": "Talon Dynamics",
+      "model": "Talon MK2",
+      "serialNumber": "LSZFEG2IZRCQ",
+      "ownerName": "Caesar Swaniawski",
+      "ownerOrg": "Haag, Anderson and Kling",
+      "operatorName": "Caesar Swaniawski",
+      "declaredPurpose": "Inspection",
+      "status": "Grounded",
+      "registrationState": "Pending Registration",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00187",
+        "vendorName": "Hegmann - Christiansen"
+      }
+    },
+    {
+      "id": "DRN-00085",
+      "manufacturer": "Solace Air",
+      "model": "Solace Glide",
+      "serialNumber": "M3PZRLSAD9IK",
+      "ownerName": "Casimer Heaney",
+      "ownerOrg": "Steuber - Moore",
+      "operatorName": "Kiley Runolfsson",
+      "declaredPurpose": "Recreation",
+      "status": "Under Review",
+      "registrationState": "Pending Registration",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00189",
+        "vendorName": "Hegmann - Christiansen"
+      }
+    },
+    {
+      "id": "DRN-00086",
+      "manufacturer": "Kestrel Robotics",
+      "model": "Kestrel Recon",
+      "serialNumber": "ZPXHXTU9KDKX",
+      "ownerName": "Sonya Harber",
+      "ownerOrg": "Mertz, Feest and Johnston",
+      "operatorName": "Sonya Harber",
+      "declaredPurpose": "Other",
+      "status": "Active",
+      "registrationState": "Registered",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00190",
+        "vendorName": "Ziemann-Dooley - Barton"
+      }
+    },
+    {
+      "id": "DRN-00087",
+      "manufacturer": "Kestrel Robotics",
+      "model": "Kestrel V4",
+      "serialNumber": "IUEO9BWGCJ6H",
+      "ownerName": "Danika Walker",
+      "ownerOrg": "Kovacek and Sons",
+      "operatorName": "Genevieve Schmeler",
+      "declaredPurpose": "Photography",
+      "status": "Active",
+      "registrationState": "Not Required",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00194",
+        "vendorName": "Crona - Russel"
+      }
+    },
+    {
+      "id": "DRN-00088",
+      "manufacturer": "Solace Air",
+      "model": "Solace Glide",
+      "serialNumber": "9XRQUAU8HYFJ",
+      "ownerName": "Janice Tromp",
+      "ownerOrg": "Orn LLC",
+      "operatorName": "Janice Tromp",
+      "declaredPurpose": "Education",
+      "status": "Under Review",
+      "registrationState": "Not Required",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00195",
+        "vendorName": "Hegmann - Christiansen"
+      }
+    },
+    {
+      "id": "DRN-00089",
+      "manufacturer": "Aerovance",
+      "model": "Aerovance S7",
+      "serialNumber": "4U5X8QMI28HK",
+      "ownerName": "Moses Grady IV",
+      "ownerOrg": "Walsh LLC",
+      "operatorName": "Mathilde Hahn",
+      "declaredPurpose": "Other",
+      "status": "Active",
+      "registrationState": "Registered",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00197",
+        "vendorName": "Willms, Jerde and Kerluke"
+      }
+    },
+    {
+      "id": "DRN-00090",
+      "manufacturer": "Kestrel Robotics",
+      "model": "Kestrel Recon",
+      "serialNumber": "JXH3W0VADHAM",
+      "ownerName": "Angela Mitchell DDS",
+      "ownerOrg": "Pfeffer LLC",
+      "operatorName": "Angela Mitchell DDS",
+      "declaredPurpose": "Agriculture",
+      "status": "Active",
+      "registrationState": "Not Required",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00202",
+        "vendorName": "Ziemann-Dooley - Barton"
+      }
+    },
+    {
+      "id": "DRN-00091",
+      "manufacturer": "Meridian Flight Co.",
+      "model": "Meridian Compact",
+      "serialNumber": "7UQ0T5V2K8RD",
+      "ownerName": "Carmela Simonis",
+      "ownerOrg": null,
+      "operatorName": "Carmela Simonis",
+      "declaredPurpose": "Film / Media",
+      "status": "Grounded",
+      "registrationState": "Pending Registration",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00204",
+        "vendorName": "Hermann, Bergnaum and Stanton"
+      }
+    },
+    {
+      "id": "DRN-00092",
+      "manufacturer": "Meridian Flight Co.",
+      "model": "Meridian Compact",
+      "serialNumber": "VA2QWQA3PH9M",
+      "ownerName": "Ms. Beatrice Collins",
+      "ownerOrg": "Rice, Thiel and Buckridge",
+      "operatorName": "Ms. Beatrice Collins",
+      "declaredPurpose": "Survey / Mapping",
+      "status": "Active",
+      "registrationState": "Pending Registration",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00206",
+        "vendorName": "Hermann, Bergnaum and Stanton"
+      }
+    },
+    {
+      "id": "DRN-00093",
+      "manufacturer": "Northwing Systems",
+      "model": "Northwing Scout",
+      "serialNumber": "BOX0PGMUITQI",
+      "ownerName": "Reta Thiel-Stokes",
+      "ownerOrg": "Rice and Sons",
+      "operatorName": "Idell Schimmel",
+      "declaredPurpose": "Inspection",
+      "status": "Under Review",
+      "registrationState": "Pending Registration",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00211",
+        "vendorName": "Haley Group"
+      }
+    },
+    {
+      "id": "DRN-00094",
+      "manufacturer": "Aerovance",
+      "model": "Aerovance S7",
+      "serialNumber": "GBHBH0HW0Y55",
+      "ownerName": "Amir Hauck",
+      "ownerOrg": "Schultz - Walker",
+      "operatorName": "Amir Hauck",
+      "declaredPurpose": "Photography",
+      "status": "Active",
+      "registrationState": "Not Required",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00218",
+        "vendorName": "Willms, Jerde and Kerluke"
+      }
+    },
+    {
+      "id": "DRN-00095",
+      "manufacturer": "Aerovance",
+      "model": "Aerovance S7",
+      "serialNumber": "C2HZ49EYG9S9",
+      "ownerName": "Dr. David Ernser I",
+      "ownerOrg": "Schmitt Group",
+      "operatorName": "Dr. David Ernser I",
+      "declaredPurpose": "Security",
+      "status": "Grounded",
+      "registrationState": "Pending Registration",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00219",
+        "vendorName": "Willms, Jerde and Kerluke"
+      }
+    },
+    {
+      "id": "DRN-00096",
+      "manufacturer": "Aerovance",
+      "model": "Aerovance S7",
+      "serialNumber": "5DX3M5KCPE7L",
+      "ownerName": "Carmela Simonis",
+      "ownerOrg": null,
+      "operatorName": "Carmela Simonis",
+      "declaredPurpose": "Recreation",
+      "status": "Grounded",
+      "registrationState": "Pending Registration",
+      "source": "MITDrone Marketplace",
+      "commercialReference": {
+        "purchaseId": "PUR-00220",
+        "vendorName": "Thiel - Corkery UAS"
+      }
+    }
+  ]
+}
